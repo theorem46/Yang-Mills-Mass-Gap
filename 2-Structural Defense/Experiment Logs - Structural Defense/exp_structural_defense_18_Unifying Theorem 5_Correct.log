@@ -1,0 +1,28 @@
+Trial 0: min shadow = 9.980661e-01
+Trial 1: min shadow = 9.981323e-01
+Trial 2: min shadow = 9.982775e-01
+Trial 3: min shadow = 9.981477e-01
+Trial 4: min shadow = 9.981531e-01
+Trial 5: min shadow = 9.981745e-01
+Trial 6: min shadow = 9.980789e-01
+Trial 7: min shadow = 9.983955e-01
+Trial 8: min shadow = 9.981023e-01
+Trial 9: min shadow = 9.982266e-01
+Trial 10: min shadow = 9.984260e-01
+Trial 11: min shadow = 9.982382e-01
+Trial 12: min shadow = 9.980573e-01
+Trial 13: min shadow = 9.980720e-01
+Trial 14: min shadow = 9.981363e-01
+Trial 15: min shadow = 9.982146e-01
+Trial 16: min shadow = 9.980933e-01
+Trial 17: min shadow = 9.981230e-01
+Trial 18: min shadow = 9.981943e-01
+Trial 19: min shadow = 9.981099e-01
+
+SUMMARY
+Global min: 0.9980573094529903
+Global mean: 0.998170976339574
+
+INTERPRETATION:
+If minimum shadow remains > 0,
+nontrivial states cannot collapse into alignment kernel.

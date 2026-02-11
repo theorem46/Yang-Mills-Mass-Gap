@@ -1,0 +1,8 @@
+--- Reverse Falsification Test: Spectral Gap Necessity ---
+RL mass gap exists        : True
+Classical mass gap exists : True
+Quantum spectral detects  : False
+
+RESULT:
+Quantum spectral gap is NOT a necessary condition for a mass gap.
+=> Found counterexample to a standard quantum assumption.

@@ -1,0 +1,23 @@
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % /opt/anaconda3/envs/mgmt_chain/bin/python "/Users/dswanagon/Relational Lysis Github/4-Topology and Global Validation/exp_quant_17_top
+ological_charge_quantization.py"
+[*] Starting Topological Charge Quantization Test...
+[*] Reference: Theorem 12.9 (Integer Topology)
+
+[*] Initializing Prime State with Vortex (Q=1)...
+[*] Entering Harmonic Lysis Tower...
+    Depth 0: Relaxation Delta = 1.67e-01
+    Depth 200: Relaxation Delta = 7.35e-04
+    Depth 400: Relaxation Delta = 3.86e-05
+    Depth 600: Relaxation Delta = 2.03e-06
+    Depth 800: Relaxation Delta = 1.07e-07
+    -> Harmonic Point reached at Depth 805.
+
+[*] Measurement Results:
+    Total Flux Sum:      6.283185
+    Calculated Charge Q: 1.000000
+    Quantization Error:  6.66e-16
+
+[SUCCESS] Topological Charge is Quantized.
+          The Lysis preserved the global winding number Q=1.
+          Theorem 12.9 Validated.
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % 

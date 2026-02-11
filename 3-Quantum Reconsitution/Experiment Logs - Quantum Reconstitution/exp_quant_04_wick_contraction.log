@@ -1,0 +1,13 @@
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % /opt/anaconda3/envs/mgmt_chain/bin/python "/Users/dswanagon/Relational Lysis Github/3-Quantum Reconsitution/exp_quant_04_wick_contrac
+tion.py"
+[*] Starting Wick Contraction (Gaussianity) Test...
+[*] Reference: Theorem 10.1 & Corollary 6.2
+
+[*] Testing 4-point function at indices: (4, 3, 1, 5)
+    S4 (Monte Carlo):   13.205051
+    S4 (Wick Theory):   13.404901
+    Relative Error:     1.4909%
+
+[SUCCESS] Wick's Theorem holds.
+          The induced field theory is Gaussian.
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ %

@@ -1,0 +1,10 @@
+RELATIONAL LYSIS — SCRIPT TYPE 27
+Abelian vs Non-Abelian Spectral Gap
+--------------------------------------------------
+U(1) lowest eigenvalue:     2.44286119e-04
+SU(2) lowest eigenvalue:    1.58103014e-01
+--------------------------------------------------
+INTERPRETATION:
+U(1) gap → 0
+SU(2) gap > 0
+Non-Abelian Relational Lysis has intrinsic mass gap.

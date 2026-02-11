@@ -1,0 +1,22 @@
+[7, 3, 9, 1, 8, 2, 6, 4]
+
+Level 1
+Alignment D: [4, 6, 4, 6, 3, 5, 4, 5]
+Shadow S: [3, -3, 5, -5, 5, -3, 2, -1]
+
+Level 2
+Alignment D: [5, 4, 5, 4, 4, 4, 4, 4]
+Shadow S: [-1, 2, -1, 2, -1, 1, 0, 1]
+
+Level 3
+Alignment D: [4, 4, 4, 4, 4, 4, 4, 4]
+Shadow S: [1, 0, 1, 0, 0, 0, 0, 0]
+
+Level 4
+Alignment D: [4, 4, 4, 4, 4, 4, 4, 4]
+Shadow S: [0, 0, 0, 0, 0, 0, 0, 0]
+
+Level 5
+Alignment D: [4, 4, 4, 4, 4, 4, 4, 4]
+Shadow S: [0, 0, 0, 0, 0, 0, 0, 0]
+>>> SHADOW FIXED POINT REACHED AT LEVEL 5

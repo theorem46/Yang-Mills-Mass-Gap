@@ -1,0 +1,14 @@
+RELATIONAL LYSIS — SCRIPT TYPE 7 (FINAL)
+Self-Adjointness & Positivity Test
+--------------------------------------------------
+<x, L y>      = 2.422220650662e+01
+<L x, y>      = 2.422220650662e+01
+Adjoint Error = 2.131628207280e-13
+
+<x, L x>      = 9.616990271432e+03
+
+INTERPRETATION:
+Adjoint Error ~ 1e-12 -> Self-adjoint
+<x, L x> >= 0        -> Positive-semidefinite
+Therefore Relational Lysis is elliptic, self-adjoint,
+positive, and spectrally well-defined.

@@ -1,0 +1,12 @@
+RELATIONAL LYSIS — SCRIPT TYPE 17
+2D Isotropy & Laplacian Limit
+--------------------------------------------------
+Input Field:             f(x,y) = x^2 + y^2
+Analytical Laplacian:    4.0
+Relational Lysis Output: 4.0000000000
+Error:                   0.0000000000e+00
+
+INTERPRETATION:
+Exact match confirms the operator correctly
+generalizes to multi-dimensional manifolds.
+It respects rotational symmetry (Isotropy).

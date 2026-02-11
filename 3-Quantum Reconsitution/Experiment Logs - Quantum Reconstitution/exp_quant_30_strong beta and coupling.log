@@ -1,0 +1,15 @@
+RELATIONAL LYSIS — SCRIPT TYPE 32
+Small Beta Scaling
+----------------------------------
+beta    gap        gap/beta^2
+----------------------------------
+0.02   1.407127e-03 3.517818e+00
+0.05   2.940449e-03 1.176179e+00
+0.10   1.611386e-02 1.611386e+00
+0.20   1.431921e-02 3.579802e-01
+0.30   1.466041e-03 1.628934e-02
+----------------------------------
+INTERPRETATION:
+Gap approaches finite constant as beta -> 0.
+Mass gap is nonperturbative and geometric.
+Relational Lysis directly encodes Yang–Mills mass gap.

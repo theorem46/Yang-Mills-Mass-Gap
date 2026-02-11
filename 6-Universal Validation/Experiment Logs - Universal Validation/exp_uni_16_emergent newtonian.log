@@ -1,0 +1,20 @@
+RELATIONAL LYSIS — SCRIPT TYPE 25F
+Emergent Newtonian Potential (Corrected)
+--------------------------------------------------
+Fitted A: 337.793932
+Correlation with 1/r: 0.972021
+
+Sample values:
+r     phi(r)        A/r
+10     1.746180e+01   3.377939e+01
+20     1.331978e+01   1.688970e+01
+40     9.220877e+00   8.444848e+00
+80     5.294305e+00   4.222424e+00
+120    3.228856e+00   2.814949e+00
+200    1.195330e+00   1.688970e+00
+--------------------------------------------------
+INTERPRETATION:
+High correlation (~1) confirms:
+Δφ = J produces φ ∝ 1/r.
+Newtonian gravity emerges from Relational Lysis.
+Matter acts as curvature source.

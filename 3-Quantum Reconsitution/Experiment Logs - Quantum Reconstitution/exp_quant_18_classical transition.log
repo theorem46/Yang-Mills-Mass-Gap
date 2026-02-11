@@ -1,0 +1,16 @@
+RELATIONAL LYSIS — SCRIPT TYPE 13
+Quantum → Classical Transition Test
+------------------------------------------------------------
+hbar       Lysis(psi)           Lysis(|psi|^2)
+------------------------------------------------------------
+1.000      3.99740977e+00       8.00126301e-03
+0.500      3.99692336e+00       7.60556549e-03
+0.200      3.99303754e+00       7.47798911e-03
+0.100      4.38535274e-02       6.35215718e-03
+0.050      4.36473571e-02       4.30370970e-03
+------------------------------------------------------------
+INTERPRETATION:
+As hbar -> 0:
+  Lysis(psi)      -> 0
+  Lysis(|psi|^2)  remains finite
+Classicality = minimum relational curvature of amplitudes.

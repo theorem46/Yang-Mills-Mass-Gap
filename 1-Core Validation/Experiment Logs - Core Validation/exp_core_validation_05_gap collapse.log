@@ -1,0 +1,15 @@
+RELATIONAL LYSIS — SOLVED-STATE ISOLATION TEST
+==============================================
+
+Total samples: 7980
+Vacuum-admitted: 1463
+Nontrivial solved states: 6517
+
+Minimum nontrivial solved-state invariant: 1.027556e-12
+
+----------------------------------------------
+PASS — SOLVED-STATE ISOLATION ESTABLISHED
+• Vacuum is geometrically isolated.
+• No continuous path of solved states exists.
+• Uniform lower bound Δ₀ = 1.027556e-12
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % 

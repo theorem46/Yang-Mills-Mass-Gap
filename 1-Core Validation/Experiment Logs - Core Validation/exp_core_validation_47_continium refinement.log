@@ -1,0 +1,14 @@
+RELATIONAL LYSIS — SCRIPT TYPE 12
+Continuum Refinement Scaling
+--------------------------------------------------
+N        lambda_1
+50       0.0042813938
+100      0.0010275461
+200      0.0002517440
+400      0.0000623062
+800      0.0000154986
+
+INTERPRETATION:
+lambda_1 should converge toward a constant
+as N increases → continuum limit.
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % 

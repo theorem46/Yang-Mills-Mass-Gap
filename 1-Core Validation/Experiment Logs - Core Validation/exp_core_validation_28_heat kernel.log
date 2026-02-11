@@ -1,0 +1,11 @@
+RELATIONAL LYSIS — SCRIPT TYPE 10 (PROJECTED ASYMPTOTIC)
+Heat Kernel Decay Test
+-------------------------------------------------------
+Smallest eigenvalue λ1:  2.4550599755e-04
+Measured decay rate:     2.4550599755e-04
+Ratio decay / λ1:        1.0000000000
+
+INTERPRETATION:
+Decay rate → λ1 as t→∞.
+Relational Lysis generates the heat semigroup.
+Mass = spectral gap.

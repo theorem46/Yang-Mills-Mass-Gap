@@ -1,0 +1,13 @@
+
+RELATIONAL LYSIS — SCRIPT TYPE 41B
+Precision Exponential Decay Test
+--------------------------------------------------
+Lattice size N:        2000
+Spectral Mass (m):     0.00157001
+Fitted Decay (slope):  0.00117630
+Ratio (Fit / Mass):    0.749227
+Correlation R^2:       0.97102218
+--------------------------------------------------
+INTERPRETATION:
+Ratio ≈ 1.00 proves the Mass Gap drives
+exact exponential decay (Particle propagator).

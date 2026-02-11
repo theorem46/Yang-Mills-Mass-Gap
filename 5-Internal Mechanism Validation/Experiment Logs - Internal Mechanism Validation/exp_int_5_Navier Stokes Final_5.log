@@ -1,0 +1,6 @@
+N=64: PASS
+N=128: PASS
+N=256: PASS
+N=512: PASS
+N=1024: PASS
+RESULT: PASS (Full solved-state Leray exactness at all levels)

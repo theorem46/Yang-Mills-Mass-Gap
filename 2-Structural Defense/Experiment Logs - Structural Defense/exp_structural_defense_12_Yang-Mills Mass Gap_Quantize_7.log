@@ -1,0 +1,13 @@
+--- Probabilistic Alignment–Decomposition Test ---
+Reference ||D*|| = 3.181981e-02
+
+Trial  0: ||D*||=8.944166e+05 | ||Aligned||=6.210834e+03 | ||Residual||=8.943951e+05
+Trial  1: ||D*||=1.010311e+06 | ||Aligned||=1.678451e+04 | ||Residual||=1.010172e+06
+Trial  2: ||D*||=8.782709e+05 | ||Aligned||=5.896293e+03 | ||Residual||=8.782511e+05
+Trial  3: ||D*||=9.147487e+05 | ||Aligned||=1.003381e+04 | ||Residual||=9.146936e+05
+Trial  4: ||D*||=9.307273e+05 | ||Aligned||=8.725346e+03 | ||Residual||=9.306864e+05
+Trial  5: ||D*||=8.881244e+05 | ||Aligned||=4.524804e+03 | ||Residual||=8.881129e+05
+Trial  6: ||D*||=1.067443e+06 | ||Aligned||=3.862429e+03 | ||Residual||=1.067436e+06
+Trial  7: ||D*||=9.815630e+05 | ||Aligned||=1.004052e+03 | ||Residual||=9.815625e+05
+Trial  8: ||D*||=9.213794e+05 | ||Aligned||=2.469475e+03 | ||Residual||=9.213761e+05
+Trial  9: ||D*||=9.224264e+05 | ||Aligned||=1.147182e+04 | ||Residual||=9.223551e+05

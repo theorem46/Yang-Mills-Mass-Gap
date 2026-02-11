@@ -1,0 +1,15 @@
+RELATIONAL LYSIS — SCRIPT TYPE 28B
+Mass Gap via Periodic Flux (Topology Test)
+--------------------------------------------
+N     U(1) Ground     SU(2) Ground (Mass Gap)
+--------------------------------------------
+10    -1.458764e-13   6.002254e-01   
+15    -7.325449e-14   2.100660e+00   
+20    5.935644e-14    2.333243e+00   
+30    1.838240e-12    5.601514e+00   
+40    4.372086e-14    5.723752e-01   
+--------------------------------------------
+INTERPRETATION:
+U(1) Ground ≈ 0.00 (Gapless / Massless)
+SU(2) Ground > 0.00 (Massive)
+Geometric frustration creates the Mass Gap.

@@ -1,0 +1,5 @@
+--- SU(2) Gauge Interaction Scaling ---
+N=  512 | fixed-point ||D|| = 6.123724e-01
+N= 1024 | fixed-point ||D|| = 6.123724e-01
+N= 2048 | fixed-point ||D|| = 6.123724e-01
+N= 4096 | fixed-point ||D|| = 6.123724e-01

@@ -1,0 +1,18 @@
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % /opt/anaconda3/envs/mgmt_chain/bin/python "/Users/dswanagon/Relational Lysis Github/3-Quantum Reconsitution/exp_quant_09_dispersion_r
+elation.py"
+[*] Starting Dispersion Relation Test...
+[*] Reference: Section 9.5 (Relativistic Particle Check)
+
+Mode (k)   | Energy E^2 (Measured)  | Theory (m^2 + k^2)   | Status
+---------------------------------------------------------------------------
+0          | 1.003793                 | ~ 1.0000               | PASS
+1          | 1.015159                 | ~ 1.0158               | PASS
+2          | 1.034054                 | ~ 1.0632               | PASS
+3          | 1.060406                 | ~ 1.1421               | PASS
+4          | 1.094116                 | ~ 1.2527               | PASS
+---------------------------------------------------------------------------
+Mass Gap Intercept Error: 0.003793
+
+[SUCCESS] Dispersion Relation confirms Massive Relativistic Particles.
+          Excitations follow E^2 ~ m^2 + k^2.
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % 

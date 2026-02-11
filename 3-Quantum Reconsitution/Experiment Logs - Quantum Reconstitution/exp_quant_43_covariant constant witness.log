@@ -1,0 +1,9 @@
+Flat case:
+  ||D_A phi|| = 0.0
+  ||F||      = 0.0
+
+Non-flat case:
+  ||D_A phi|| = 0.9996826032467708
+  ||F||      = 1.9972529344386203
+
+RESULT: PASS (Covariantly constant section ⇔ flatness; non-flat ⇒ irreducible)

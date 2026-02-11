@@ -1,0 +1,21 @@
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % /opt/anaconda3/envs/mgmt_chain/bin/python "/Users/dswanagon/Relational Lysis Github/1-Core Validation/exp_core_validation_02_quadrati
+c_necessity.py"
+[*] Starting Quadratic Necessity Test...
+[*] Reference: Theorem 6.1 (Quadratic Terminal Geometry)
+
+Input Dist             | Input Non-G  | Diamond Non-G  | Shadow Norm  | Status
+--------------------------------------------------------------------------------
+Gaussian (Control)     | 0.0284       | 0.0248         | 70.2238      | PASS
+Uniform (Platykurtic)  | 1.2140       | 0.6631         | 40.3716      | PASS
+Exponential (Skewed)   | 7.0340       | 3.4910         | 68.7973      | PASS
+Laplace (Leptokurtic)  | 3.3653       | 1.6156         | 99.0295      | PASS
+--------------------------------------------------------------------------------
+
+[ANALYSIS] Theorem 6.1 Validation:
+  - Lysis systematically reduces Non-Gaussianity in the Diamond sector.
+  - Higher-order structure (Skew/Kurtosis) is disproportionately ejected
+    into the Shadow Trace (as seen in Shadow Norm).
+  - Result: Terminal Geometry prefers Quadratic (Lower Complexity) forms.
+
+[SUCCESS] Quadratic Necessity Validated.
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % 

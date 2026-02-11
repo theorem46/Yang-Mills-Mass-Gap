@@ -1,0 +1,8 @@
+==== ENSEMBLE STATISTICS TEST ====
+Mean gap: 0.0007853052952819317
+Std gap : 0.0005259819785028929
+Min gap : 9.766533132867002e-06
+Zero-gap count: 0
+
+==== OPERATOR EQUIVALENCE TEST ====
+|| H_RL - H_Classical || = 0.0

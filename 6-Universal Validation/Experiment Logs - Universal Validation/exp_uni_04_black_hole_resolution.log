@@ -1,0 +1,19 @@
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % /opt/anaconda3/envs/mgmt_chain/bin/python "/Users/dswanagon/Relational Lysis Github/6-Universal Validation/exp_uni_04_black_hole_reso
+lution.py"
+[*] Starting Black Hole Resolution Test (Stabilized)...
+[*] Goal: Prove Horizon Formation via Diamond Stiffness
+
+Mass (Stiffness)     | Transmission %     | State
+-----------------------------------------------------------------
+0.0                  | 23.4242            | Distorted
+1.0                  | 22.0727            | Distorted
+10.0                 | 13.9536            | Distorted
+100.0                | 2.0076             | Opaque
+1000.0               | 0.0445             | **HORIZON FORMED**
+1000000.0            | 0.0000             | **HORIZON FORMED**
+-----------------------------------------------------------------
+
+[SUCCESS] Singularity Resolved.
+          Vacuum is Transparent.
+          Infinite Stiffness creates an Event Horizon.
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % 

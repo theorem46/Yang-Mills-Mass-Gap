@@ -1,0 +1,17 @@
+
+RELATIONAL LYSIS — SCRIPT TYPE 26B
+Relativistic Dispersion Test (Massless Limit)
+---------------------------------------------------------
+Mode(n)  k^2 (Theory)    w^2 (Lysis)     Ratio (w/k)^2
+---------------------------------------------------------
+1        6.137776e-05    6.137744e-05    0.999995
+2        2.455110e-04    2.455060e-04    0.999980
+3        5.523998e-04    5.523744e-04    0.999954
+5        1.534444e-03    1.534248e-03    0.999872
+10       6.137776e-03    6.134637e-03    0.999489
+20       2.455110e-02    2.450091e-02    0.997956
+---------------------------------------------------------
+INTERPRETATION:
+Ratio ≈ 1.00 confirms w^2 = k^2.
+Relational Lysis yields correct relativistic dispersion
+for a massless field (Photon/Gluon).

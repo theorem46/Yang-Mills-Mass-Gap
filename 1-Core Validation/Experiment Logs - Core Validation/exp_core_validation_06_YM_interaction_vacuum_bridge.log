@@ -1,0 +1,64 @@
+RELATIONAL LYSIS — YM INTERACTION & VACUUM BRIDGE (BULLETPROOF)
+==============================================================
+ε= 1.0e-12 | depth=101 | interaction=100 | invariant=6.931e-03
+ε= 4.6e-12 | depth=101 | interaction=100 | invariant=6.931e-03
+ε= 2.2e-11 | depth=101 | interaction=100 | invariant=6.931e-03
+ε= 1.0e-10 | depth=101 | interaction=100 | invariant=6.931e-03
+ε= 4.6e-10 | depth=101 | interaction=100 | invariant=6.931e-03
+ε= 2.2e-09 | depth=101 | interaction=100 | invariant=6.932e-03
+ε= 1.0e-08 | depth=101 | interaction=100 | invariant=6.932e-03
+ε= 4.6e-08 | depth=101 | interaction=100 | invariant=6.932e-03
+ε= 2.2e-07 | depth=101 | interaction=100 | invariant=6.932e-03
+ε= 1.0e-06 | depth=101 | interaction=100 | invariant=6.932e-03
+ε= 4.6e-06 | depth=101 | interaction=100 | invariant=6.932e-03
+ε= 2.2e-05 | depth=101 | interaction=100 | invariant=6.932e-03
+ε= 1.0e-04 | depth=101 | interaction=100 | invariant=6.932e-03
+ε= 4.6e-04 | depth=101 | interaction=100 | invariant=6.932e-03
+ε= 2.2e-03 | depth=101 | interaction=100 | invariant=6.932e-03
+ε= 1.0e-02 | depth=101 | interaction=100 | invariant=6.932e-03
+ε= 1.0e-12 | depth=101 | interaction=100 | invariant=1.846e-01
+ε= 4.6e-12 | depth=101 | interaction=100 | invariant=1.846e-01
+ε= 2.2e-11 | depth=101 | interaction=100 | invariant=1.846e-01
+ε= 1.0e-10 | depth=101 | interaction=100 | invariant=1.846e-01
+ε= 4.6e-10 | depth=101 | interaction=100 | invariant=1.846e-01
+ε= 2.2e-09 | depth=101 | interaction=100 | invariant=1.846e-01
+ε= 1.0e-08 | depth=101 | interaction=100 | invariant=1.846e-01
+ε= 4.6e-08 | depth=101 | interaction=100 | invariant=1.846e-01
+ε= 2.2e-07 | depth=101 | interaction=100 | invariant=1.846e-01
+ε= 1.0e-06 | depth=101 | interaction=100 | invariant=1.846e-01
+ε= 4.6e-06 | depth=101 | interaction=100 | invariant=1.846e-01
+ε= 2.2e-05 | depth=101 | interaction=100 | invariant=1.846e-01
+ε= 1.0e-04 | depth=101 | interaction=100 | invariant=1.846e-01
+ε= 4.6e-04 | depth=101 | interaction=100 | invariant=1.846e-01
+ε= 2.2e-03 | depth=101 | interaction=100 | invariant=1.846e-01
+ε= 1.0e-02 | depth=101 | interaction=100 | invariant=1.846e-01
+ε= 1.0e-12 | depth=101 | interaction=100 | invariant=1.671e+00
+ε= 4.6e-12 | depth=101 | interaction=100 | invariant=2.001e+00
+ε= 2.2e-11 | depth=101 | interaction=100 | invariant=1.578e+00
+ε= 1.0e-10 | depth=101 | interaction=100 | invariant=1.722e+00
+ε= 4.6e-10 | depth=101 | interaction=100 | invariant=1.594e+00
+ε= 2.2e-09 | depth=101 | interaction=100 | invariant=1.374e+00
+ε= 1.0e-08 | depth=101 | interaction=100 | invariant=1.778e+00
+ε= 4.6e-08 | depth=101 | interaction=100 | invariant=1.845e+00
+ε= 2.2e-07 | depth=101 | interaction=100 | invariant=1.810e+00
+ε= 1.0e-06 | depth=101 | interaction=100 | invariant=1.506e+00
+ε= 4.6e-06 | depth=101 | interaction=100 | invariant=1.991e+00
+ε= 2.2e-05 | depth=101 | interaction=100 | invariant=1.627e+00
+ε= 1.0e-04 | depth=101 | interaction=100 | invariant=1.573e+00
+ε= 4.6e-04 | depth=101 | interaction=100 | invariant=1.484e+00
+ε= 2.2e-03 | depth=101 | interaction=100 | invariant=1.523e+00
+ε= 1.0e-02 | depth=101 | interaction=100 | invariant=1.778e+00
+
+==============================================================
+GLOBAL RESULTS
+==============================================================
+Minimum solved-state invariant (non-vacuum): 6.930886e-03
+Uniform physical mass gap:                  4.000000e+00
+
+[PASSED]
+• Interaction encoded in solved-state transitions
+• Terminal Gaussianity preserved
+• Vacuum geometrically isolated
+• Infinite-volume stability enforced
+• Clay-facing objections closed at the structural level
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % 

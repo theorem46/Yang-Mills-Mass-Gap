@@ -1,0 +1,19 @@
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % /opt/anaconda3/envs/mgmt_chain/bin/python "/Users/dswanagon/Relational Lysis Github/6-Universal Validation/exp_uni_13_relativity.py"
+
+--- Harmonic Endpoint A ---
+D_norm       :  0.000000
+S_norm       :  204895952021362395355311248892308173484372965366216659265598038677324555570118656.000000
+stable_rank  :  0.000000
+eig_min      :  0.000000
+eig_max      :  0.000000
+
+--- Harmonic Endpoint B ---
+D_norm       :  0.000000
+S_norm       :  204895952021362395355311248892308173484372965366216659265598038677324555570118656.000000
+stable_rank  :  0.000000
+eig_min      :  0.000000
+eig_max      :  0.000000
+
+--- RL KILL TEST RESULT ---
+Equivalent endpoints: True
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % 

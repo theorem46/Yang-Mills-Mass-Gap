@@ -1,0 +1,15 @@
+
+RELATIONAL LYSIS — SCRIPT TYPE 20B
+Holographic Mode Count Test (Adaptive Threshold)
+--------------------------------------------------
+R      Threshold       Modes
+10     1.000e-01     45
+20     2.500e-02     8
+30     1.111e-02     3
+40     6.250e-03     1
+60     2.778e-03     0
+80     1.563e-03     0
+
+INTERPRETATION:
+Modes ∝ R  → holographic
+Modes ∝ R^2 → bulk

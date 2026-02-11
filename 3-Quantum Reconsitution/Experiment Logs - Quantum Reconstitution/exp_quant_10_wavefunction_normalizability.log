@@ -1,0 +1,15 @@
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % /opt/anaconda3/envs/mgmt_chain/bin/python "/Users/dswanagon/Relational Lysis Github/3-Quantum Reconsitution/exp_quant_10_wavefunction
+_normalizability.py"
+[*] Starting Wavefunction Normalizability Test...
+[*] Reference: Theorem 5.6 (Bound States)
+
+State      | L2 Norm    | Peak Amp   | Edge Amp   | Ratio      | Status
+---------------------------------------------------------------------------
+Psi_0      | 1.0000       | 0.1407       | 0.0088       | 0.0622       | PASS
+Psi_1      | 1.0000       | 0.1407       | 0.0175       | 0.1244       | PASS
+Psi_2      | 1.0000       | 0.1407       | 0.0262       | 0.1864       | PASS
+---------------------------------------------------------------------------
+
+[SUCCESS] Eigenstates are L2-Normalizable (Bound States).
+          Wavefunctions decay at boundaries (Confining Geometry).
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % 

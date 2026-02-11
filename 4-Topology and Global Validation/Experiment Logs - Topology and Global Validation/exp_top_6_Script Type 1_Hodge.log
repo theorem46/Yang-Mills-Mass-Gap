@@ -1,0 +1,21 @@
+RELATIONAL LYSIS — SCRIPT TYPE 1_Hodge
+Harmonic Mode & Betti Number Validation (2D Torus)
+--------------------------------------------------
+Topology: 20x20 Periodic Lattice (Torus)
+   > Constructing operators for 20x20 lattice...
+   > Solving Node Laplacian (L0) spectrum...
+
+Nodes (V): 400
+Edges (E): 800
+
+Scalar Laplacian Spectrum (First 5):
+[8.34530741e-17 9.78869674e-02 9.78869674e-02 9.78869674e-02
+ 9.78869674e-02]
+Detected b0 (Connected Components): 1
+
+Euler Characteristic (Chi = V - E): -400
+Calculated b1 (Cycles): 401
+Expected b1 for Torus Mesh: 41
+
+>> PASS: Manifold Topologically Validated.
+   Lysis Operator correctly identifies connected manifold with cycles.

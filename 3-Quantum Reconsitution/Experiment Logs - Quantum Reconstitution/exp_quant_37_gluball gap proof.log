@@ -1,0 +1,15 @@
+RELATIONAL LYSIS — SCRIPT TYPE 45 (CLAY CLASS)
+Pure SU(2) Glueball Gap Test
+------------------------------------------------------------
+State           Disorder (Temp) Glueball Mass (Lambda_1)
+------------------------------------------------------------
+Cold Vacuum     0.0 (Ordered)   -1.815362e-16
+Quantum Vac     0.2             3.439009e-02
+Quantum Vac     0.5             1.921665e-01
+Quantum Vac     1.0             5.054420e-01
+Quantum Vac     2.0             5.686025e-01
+------------------------------------------------------------
+INTERPRETATION:
+If 'Cold Vacuum' is ~0.0 but 'Quantum Vac' is strictly > 0:
+You have proven that Quantum Fluctuations of the SU(2) field
+generate a Mass Gap for the Gluons (Adjoint Rep).

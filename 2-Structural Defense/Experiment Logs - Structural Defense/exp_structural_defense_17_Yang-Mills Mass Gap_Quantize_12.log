@@ -1,0 +1,22 @@
+--- Gauge-Theory Solved-State Exclusion Test ---
+[SOLVED] nl=0.50, noise=0.00, depth=3
+[UNSOLVED] nl=0.50, noise=0.10 → Violates existence of stable observables
+[UNSOLVED] nl=0.50, noise=0.30 → Violates existence of stable observables
+[SOLVED] nl=1.00, noise=0.00, depth=3
+[UNSOLVED] nl=1.00, noise=0.10 → Violates existence of stable observables
+[UNSOLVED] nl=1.00, noise=0.30 → Violates existence of stable observables
+[SOLVED] nl=2.00, noise=0.00, depth=3
+[UNSOLVED] nl=2.00, noise=0.10 → Violates existence of stable observables
+[UNSOLVED] nl=2.00, noise=0.30 → Violates existence of stable observables
+[SOLVED] nl=5.00, noise=0.00, depth=3
+[UNSOLVED] nl=5.00, noise=0.10 → Violates existence of stable observables
+[UNSOLVED] nl=5.00, noise=0.30 → Violates existence of stable observables
+
+--- Summary ---
+Solved configurations   : 4
+Unsolved configurations : 8
+
+RESULT:
+Non-convergent Yang–Mills–like configurations necessarily violate
+at least one Yang–Mills axiom.
+=> Stable solved states are REQUIRED for consistency.

@@ -1,0 +1,11 @@
+RELATIONAL LYSIS — SCRIPT TYPE 3
+----------------------------------------------------
+Shadow Energy E:          3.947828772574e-05
+N^2 * E:                 3.947828772574e+01
+Laplacian eigenvalue λ1: 3.999960521712e+00
+(N^2 * E) / λ1:          9.869669340847e+00
+
+INTERPRETATION:
+N^2 * ShadowEnergy ≈ λ1
+Relational Lysis equals the discrete Laplacian.
+Energy functional measures spectral gap.

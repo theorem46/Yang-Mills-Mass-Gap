@@ -1,0 +1,49 @@
+--- G1 ---
+PASS (P-class)
+
+--- G2 ---
+PASS (P-class)
+
+--- G3 ---
+PASS (P-class)
+
+--- G4 ---
+PASS (H-class expected non-convergence)
+
+--- G5 ---
+PASS (P-class)
+
+--- G6 ---
+PASS (P-class)
+
+--- G7 ---
+PASS (P-class)
+
+--- G8 ---
+PASS (P-class)
+
+--- G9 ---
+PASS (P-class)
+
+--- G10 ---
+PASS (P-class)
+
+--- G11 ---
+PASS (P-class)
+
+--- G12 ---
+PASS (P-class)
+
+--- G13 ---
+PASS (P-class)
+
+--- G14 ---
+PASS (P-class)
+
+--- G15 ---
+PASS (H-class expected non-convergence)
+
+--- G16 ---
+PASS (P-class)
+
+OVERALL PASS

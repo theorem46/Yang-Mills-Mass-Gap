@@ -1,0 +1,11 @@
+RELATIONAL LYSIS — SCRIPT TYPE 37
+Boundary Condition Robustness Test
+-----------------------------------------
+Periodic  : mean=-2.055178  std=1.02e-01
+Dirichlet : mean=-2.009587  std=1.07e-01
+Neumann   : mean=-1.935390  std=6.81e-02
+
+INTERPRETATION:
+If means are negative and bounded away from 0:
+Relational Lysis is coercive under all boundaries.
+Therefore spectral gap is intrinsic.

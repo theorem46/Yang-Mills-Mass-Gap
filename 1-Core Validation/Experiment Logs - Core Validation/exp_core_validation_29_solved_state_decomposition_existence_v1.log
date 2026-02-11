@@ -1,0 +1,12 @@
+
+--- Testing F1_Frustrated_Cycle ---
+PASS
+Convergence steps: 100
+
+--- Testing F2_LongRange_SelfReference ---
+PASS
+Convergence steps: 1
+
+--- Testing F3_Symbolic_Substitution ---
+PASS
+Convergence steps: 3

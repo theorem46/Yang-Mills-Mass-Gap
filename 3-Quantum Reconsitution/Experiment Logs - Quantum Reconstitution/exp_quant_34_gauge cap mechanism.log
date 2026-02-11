@@ -1,0 +1,15 @@
+RELATIONAL LYSIS — SCRIPT TYPE 42B
+The Gauge Gap Mechanism Proof
+---------------------------------------------------------------
+N     Lambda (Flat)   Lambda (Curved) Gap Ratio
+---------------------------------------------------------------
+50    7.084201e-17    2.130937e-03    1989963792251.6x
+100   -5.951877e-17    2.765011e-05    29399964181.0x
+200   1.432618e-16    1.876593e-04    164143747812.2x
+400   3.689000e-16    3.659834e-06    2673558311.1x
+800   -1.043051e-16    4.898796e-06    5469268144.8x
+---------------------------------------------------------------
+INTERPRETATION:
+1. Lambda (Flat) should decay as ~1/N^2 (Gap closes).
+2. Lambda (Curved) should stay roughly constant (Gap stays open).
+IF THIS HOLDS: You have proven that Gauge Curvature generates Mass.

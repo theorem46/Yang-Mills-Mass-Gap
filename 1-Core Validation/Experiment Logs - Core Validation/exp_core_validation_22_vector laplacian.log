@@ -1,0 +1,11 @@
+RELATIONAL LYSIS — SCRIPT TYPE 4
+----------------------------------------------------
+Lysis Vector Energy:     1.579115923678e-04
+Block Laplacian Energy:  1.579115923678e-04
+Ratio (Lysis / Block):   1.000000000000e+00
+
+INTERPRETATION:
+Ratio ≈ 1 confirms:
+Relational Lysis on vector fields
+equals block-diagonal Laplacian.
+This is the operator used for Lie-algebra valued fields.

@@ -1,0 +1,2 @@
+Nonlocal fraction by level: [0.5000000000000201, 5.965184057347627e-15, 1.9007632492097844e-71, 4.217486542462133e-183, 0.0]
+RESULT: PASS (Nonlinearity localizes to 2nd-order shadow)

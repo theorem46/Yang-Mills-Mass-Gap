@@ -1,0 +1,15 @@
+RELATIONAL LYSIS — SCRIPT TYPE 38 (FIXED)
+Gamma-Convergence / Continuum Spectral Convergence
+-----------------------------------------------------
+N     lambda1        N^2 * lambda1
+-----------------------------------------------------
+50    3.793343e-03       9.483356
+100   9.674354e-04       9.674354
+200   2.442861e-04       9.771445
+400   6.137744e-05       9.820391
+800   1.538276e-05       9.844964
+-----------------------------------------------------
+INTERPRETATION:
+If N^2 * lambda1 -> constant:
+Relational Lysis converges to unique continuum operator.
+Mass gap is not discretization artifact.

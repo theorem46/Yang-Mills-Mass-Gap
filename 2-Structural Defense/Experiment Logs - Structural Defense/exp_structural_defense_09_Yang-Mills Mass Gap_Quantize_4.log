@@ -1,0 +1,17 @@
+--- Interaction Solved-State Diagnostics ---
+
+Level 1: ||D|| = 3.181980e-02, ||S|| = 3.182385e-02, ratio = 0.999953
+Level 2: ||D|| = 3.181981e-02, ||S|| = 3.181981e-02, ratio = 1.000000
+Level 3: ||D|| = 3.181981e-02, ||S|| = 3.181981e-02, ratio = 1.000000
+Level 4: ||D|| = 3.181981e-02, ||S|| = 3.181981e-02, ratio = 1.000000
+Level 5: ||D|| = 3.181981e-02, ||S|| = 3.181981e-02, ratio = 1.000000
+Level 6: ||D|| = 3.181981e-02, ||S|| = 3.181981e-02, ratio = 1.000000
+Level 7: ||D|| = 3.181981e-02, ||S|| = 3.181981e-02, ratio = 1.000000
+Level 8: ||D|| = 3.181981e-02, ||S|| = 3.181981e-02, ratio = 1.000000
+Level 9: ||D|| = 3.181981e-02, ||S|| = 3.181981e-02, ratio = 1.000000
+Level 10: ||D|| = 3.181981e-02, ||S|| = 3.181981e-02, ratio = 1.000000
+Level 11: ||D|| = 3.181981e-02, ||S|| = 3.181981e-02, ratio = 1.000000
+
+--- Verdict ---
+Shadow monotone decay: True
+Diamond geometric convergence: True

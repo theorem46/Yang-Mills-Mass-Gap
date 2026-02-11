@@ -1,0 +1,33 @@
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % /opt/anaconda3/envs/mgmt_chain/bin/python "/Users/dswanagon/Relational Lysis Github/4-Topology and Global Validation/exp_quant_16_wil
+son_loop_area_law.py"
+[*] Starting Wilson Loop (Confinement) Test...
+[*] Reference: Theorem 12.8 (Area Law)
+
+[*] Initializing Prime State with Rotational Flux (Curl != 0)...
+[*] Entering Harmonic Lysis Tower...
+    Depth 0: Relaxation Delta = 2.75e+00
+    Depth 200: Relaxation Delta = 1.27e-02
+    Depth 400: Relaxation Delta = 8.17e-04
+    Depth 600: Relaxation Delta = 5.24e-05
+    Depth 800: Relaxation Delta = 3.36e-06
+    Depth 1000: Relaxation Delta = 2.16e-07
+    Depth 1200: Relaxation Delta = 1.38e-08
+    -> Harmonic Point reached at Depth 1224.
+
+[*] Measuring Wilson Loops on Harmonic Solved State...
+Loop Size       | Area     | Total Phase     | Phase/Area
+------------------------------------------------------------
+1x1             | 1        | 0.100000          | 0.100000
+2x2             | 4        | 0.400000          | 0.100000
+3x3             | 9        | 0.900000          | 0.100000
+4x4             | 16       | 1.600000          | 0.100000
+5x5             | 25       | 2.500000          | 0.100000
+6x6             | 36       | 3.600000          | 0.100000
+------------------------------------------------------------
+[*] Fit Results:
+    Flux Density (Slope):    0.1000
+    Linearity (R^2):         1.0000
+
+[SUCCESS] Area Law / Flux Penetration Confirmed.
+          The Harmonic State maintains the Topological Curl.
+          (Phase scales linearly with Area).

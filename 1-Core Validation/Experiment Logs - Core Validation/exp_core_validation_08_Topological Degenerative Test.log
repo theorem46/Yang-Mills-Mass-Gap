@@ -1,0 +1,41 @@
+RELATIONAL LYSIS — T12.7 VACUUM ISOLATION TEST (FINAL)
+=====================================================
+width=1.000e-02 | invariant=2.818055e-03
+width=2.000e-02 | invariant=1.457551e-03
+width=4.000e-02 | invariant=7.648197e-04
+width=8.000e-02 | invariant=4.122711e-04
+width=1.600e-01 | invariant=2.350370e-04
+width=3.200e-01 | invariant=2.527512e-04
+width=6.400e-01 | invariant=6.292170e-04
+width=1.280e+00 | invariant=1.030218e-03
+width=2.560e+00 | invariant=1.303993e-03
+width=5.120e+00 | invariant=1.461942e-03
+width=1.024e+01 | invariant=1.546511e-03
+width=2.048e+01 | invariant=1.590233e-03
+width=4.096e+01 | invariant=1.612459e-03
+width=8.192e+01 | invariant=1.623663e-03
+width=1.638e+02 | invariant=1.629288e-03
+width=3.277e+02 | invariant=1.632107e-03
+width=6.554e+02 | invariant=1.633517e-03
+width=1.311e+03 | invariant=1.634223e-03
+width=2.621e+03 | invariant=1.634576e-03
+width=5.243e+03 | invariant=1.634752e-03
+width=1.049e+04 | invariant=1.634840e-03
+width=2.097e+04 | invariant=1.634885e-03
+width=4.194e+04 | invariant=1.634907e-03
+width=8.389e+04 | invariant=1.634918e-03
+width=1.678e+05 | invariant=1.634923e-03
+width=3.355e+05 | invariant=1.634926e-03
+width=6.711e+05 | invariant=1.634927e-03
+width=1.342e+06 | invariant=1.634928e-03
+width=2.684e+06 | invariant=1.634928e-03
+width=5.369e+06 | invariant=1.634929e-03
+
+=====================================================
+Minimum invariant observed: 2.350370e-04
+
+[PASSED]
+• Vacuum solved state remains isolated
+• No admissible topological deformation collapses invariant
+• Theorem 12.7 validated exactly as stated
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % 

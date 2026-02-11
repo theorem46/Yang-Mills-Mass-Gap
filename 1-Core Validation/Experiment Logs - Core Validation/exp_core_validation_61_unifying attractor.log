@@ -1,0 +1,20 @@
+RELATIONAL LYSIS — UNIFYING THEOREM TYPE 1 (CORRECTED)
+-------------------------------------------------------
+
+RAW COSINE STATS
+Mean: 1.0
+Min : 1.0
+Max : 1.0
+
+ABS(COSINE) STATS
+Mean |cos|: 1.0
+Fraction |cos| > 0.99: 1.0
+
+SIGN-NORMALIZED COSINE STATS
+Mean: 1.0
+Min : 1.0
+Max : 1.0
+
+INTERPRETATION:
+If mean |cos| -> 1 and sign-normalized mean -> 1
+then universal alignment attractor exists.

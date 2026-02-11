@@ -1,0 +1,24 @@
+RELATIONAL LYSIS — LOCAL OPERATOR FAMILY TEST
+-------------------------------------------------------
+laplacian attractor norm: 1.000000
+fourth_order attractor norm: 1.000000
+anisotropic attractor norm: 1.000000
+variable_coeff attractor norm: 1.000000
+
+PAIRWISE COSINES
+
+laplacian vs fourth_order: 0.995671
+laplacian vs anisotropic: 0.986066
+laplacian vs variable_coeff: -0.995986
+fourth_order vs anisotropic: 0.985623
+fourth_order vs variable_coeff: -0.996361
+anisotropic vs variable_coeff: -0.986298
+
+SUMMARY
+Mean |cos|: 0.9910008278879917
+Min  |cos|: 0.9856234525228771
+Max  |cos|: 0.9963611044164418
+
+INTERPRETATION:
+If Mean |cos| → 1 :
+All local self-adjoint operators share same universal attractor.

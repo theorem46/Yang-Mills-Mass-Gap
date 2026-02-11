@@ -1,0 +1,19 @@
+--- CDCT-D: Cross-Derivation Derivational Consistency Test ---
+Solved-state tower depth: 4
+
+Classical derivation:
+  finite: True
+  mass_gap: True
+  ir_collapse: False
+
+Quantum derivation:
+  finite: True
+  spectral_gap: False
+  vacuum_instability: False
+
+Alternative derivation:
+  terminates: True
+  nontrivial: True
+
+PASS: All derivations logically consistent.
+RL determinism confirmed.

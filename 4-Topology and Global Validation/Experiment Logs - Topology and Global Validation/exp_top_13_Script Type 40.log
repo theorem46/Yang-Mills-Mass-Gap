@@ -1,0 +1,11 @@
+RELATIONAL LYSIS — SCRIPT TYPE 40
+Cheeger Inequality Test
+-------------------------------------
+Estimated Cheeger h:      0.790000
+Estimated lambda_1:       1.616346
+h^2 / 4:                  0.156025
+
+INTERPRETATION:
+If lambda1 >= h^2/4:
+Spectral gap arises from geometry.
+Mass gap ↔ isoperimetric curvature.

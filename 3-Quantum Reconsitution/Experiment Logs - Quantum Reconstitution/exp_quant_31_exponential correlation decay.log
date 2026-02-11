@@ -1,0 +1,20 @@
+RELATIONAL LYSIS — SCRIPT TYPE 41 (ULTRA TIGHT)
+Exponential Correlation Decay Test
+--------------------------------------------------
+Lattice size N:                800
+sqrt(lambda1):                 0.0039220857
+Lattice-theory mass:           0.0039269883
+Fitted decay constant:         0.0059212364
+Fit / sqrt(lambda1):           1.509716
+Fit / lattice-mass:            1.507831
+Correlation R^2:               0.9299013896
+
+Sample tail:
+r=120   G(r)=8.903842e-01
+r=200   G(r)=7.064145e-01
+r=300   G(r)=3.822312e-01
+--------------------------------------------------
+INTERPRETATION:
+If Fit / lattice-mass ≈ 1 and R^2 ≈ 1:
+Relational Lysis produces exponential clustering.
+Mass gap is physical.

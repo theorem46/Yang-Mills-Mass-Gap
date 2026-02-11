@@ -1,0 +1,32 @@
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % /opt/anaconda3/envs/mgmt_chain/bin/python "/Users/dswanagon/Relational Lysis Github/3-Quantum Reconsitution/exp_quant_07_reflection_p
+ositivity.py"
+[*] Starting Reflection Positivity (OS Axiom) Test...
+[*] Reference: Section 11.3 & Theorem 12.7
+
+Trial      | OS Product <Theta f, f>   | Status
+--------------------------------------------------
+1          | 1.461238e-02             | PASS
+2          | 6.233890e-03             | PASS
+3          | 2.790504e-01             | PASS
+4          | 3.514333e-01             | PASS
+5          | 7.915722e-01             | PASS
+6          | 4.366153e-04             | PASS
+7          | 3.474979e-01             | PASS
+8          | 3.115333e-01             | PASS
+9          | 1.512012e-02             | PASS
+10         | 5.458812e-03             | PASS
+11         | 1.703612e+00             | PASS
+12         | 2.346176e-01             | PASS
+13         | 4.495693e-04             | PASS
+14         | 7.469490e-03             | PASS
+15         | 1.854202e-01             | PASS
+16         | 1.663232e-01             | PASS
+17         | 2.494752e-02             | PASS
+18         | 6.835551e-03             | PASS
+19         | 1.278173e-01             | PASS
+20         | 6.849985e-02             | PASS
+--------------------------------------------------
+
+[SUCCESS] Reflection Positivity Holds.
+          The Euclidean Theory defines a valid Physical Hilbert Space.
+          (Real Time Evolution is Unitary).

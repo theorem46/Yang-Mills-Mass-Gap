@@ -1,0 +1,18 @@
+E6 — Eventual L^3 Absorbing Set (NS)
+Grid: 32^3 | Steps: 1000
+Step 0/1000, t=0.000, L3=1.0377
+Step 100/1000, t=0.200, L3=0.0372
+Step 200/1000, t=0.400, L3=0.0205
+Step 300/1000, t=0.600, L3=0.0138
+Step 400/1000, t=0.800, L3=0.0101
+Step 500/1000, t=1.000, L3=0.0077
+Step 600/1000, t=1.200, L3=0.0060
+Step 700/1000, t=1.400, L3=0.0048
+Step 800/1000, t=1.600, L3=0.0038
+Step 900/1000, t=1.800, L3=0.0031
+
+Absorbing Set Check
+Absorption time ≥ 0.6
+Computed bound M ≈ 0.013798
+Absorbed: True
+RESULT: PASS (Eventual L^3 absorbing set)

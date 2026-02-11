@@ -1,0 +1,28 @@
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % /opt/anaconda3/envs/mgmt_chain/bin/python "/Users/dswanagon/Relational Lysis Github/6-Universal Validation/exp_uni_03_fibonacci_phi.p
+y"
+[*] Starting Fibonacci (Golden Ratio) Test...
+[*] Goal: Derive 'Phi' from Relational Recursion
+
+Gen   | Diamond (D)     | Shadow (S)      | Ratio D/S          | Error
+---------------------------------------------------------------------------
+1     | 1               | 0               | 0.00000000         | 1.62e+00
+2     | 1               | 1               | 1.00000000         | 6.18e-01
+3     | 2               | 1               | 2.00000000         | 3.82e-01
+4     | 3               | 2               | 1.50000000         | 1.18e-01
+5     | 5               | 3               | 1.66666667         | 4.86e-02
+6     | 8               | 5               | 1.60000000         | 1.80e-02
+7     | 13              | 8               | 1.62500000         | 6.97e-03
+8     | 21              | 13              | 1.61538462         | 2.65e-03
+9     | 34              | 21              | 1.61904762         | 1.01e-03
+10    | 55              | 34              | 1.61764706         | 3.87e-04
+15    | 610             | 377             | 1.61803714         | 3.15e-06
+20    | 6765            | 4181            | 1.61803396         | 2.56e-08
+25    | 75025           | 46368           | 1.61803399         | 2.08e-10
+30    | 832040          | 514229          | 1.61803399         | 1.69e-12
+35    | 9227465         | 5702887         | 1.61803399         | 1.38e-14
+---------------------------------------------------------------------------
+[*] Target (Phi): 1.6180339887
+
+[SUCCESS] The Golden Ratio Emerges.
+          (Phi is the Solved State of Recursive History).
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % 

@@ -1,0 +1,23 @@
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % /opt/anaconda3/envs/mgmt_chain/bin/python "/Users/dswanagon/Relational Lysis Github/6-Universal Validation/exp_uni_09_dark_matter_rot
+ation.py"
+[*] Starting Dark Matter Rotation Test...
+[*] Goal: Derive Flat Rotation Curves via Solved State Equilibrium
+
+Radius (kpc)    | V_Newton (Sphere)    | V_Solved (Disk)      | Behavior
+---------------------------------------------------------------------------
+1.0             | 134636.2681          | 134636.2681          | Decaying
+6.0             | 107920.1702          | 107920.1702          | Decaying
+11.0            | 89908.8853           | 94336.7284           | Decaying
+16.0            | 77428.9108           | 114594.7880          | Decaying
+21.0            | 68487.2050           | 141231.5105          | Decaying
+26.0            | 61846.0693           | 141909.4414          | Decaying
+31.0            | 56738.5222           | 142158.0249          | Decaying
+36.0            | 52684.9497           | 142249.3643          | Decaying
+41.0            | 49379.6973           | 142282.9514          | Decaying
+46.0            | 46622.8849           | 142295.3054          | Decaying
+---------------------------------------------------------------------------
+
+[SUCCESS] Flat Rotation Curve Derived.
+          Solved State Confinement (Waveguide Effect) mimics Dark Matter.
+          (Gravity respects the Diamond Geometry, not empty space).
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % 

@@ -1,0 +1,30 @@
+RELATIONAL LYSIS — UNIFYING THEOREM TYPE 2
+Hierarchical Operator Embedding Test
+------------------------------------------------------------
+Seed 0 final norm: 1.000000
+Seed 1 final norm: 1.000000
+Seed 2 final norm: 1.000000
+Seed 3 final norm: 1.000000
+Seed 4 final norm: 1.000000
+
+PAIRWISE COSINES BETWEEN FINAL STATES
+
+0-1: 0.995596
+0-2: -0.995786
+0-3: -0.995634
+0-4: -0.995717
+1-2: -0.996032
+1-3: -0.995600
+1-4: -0.996039
+2-3: 0.995843
+2-4: 0.996277
+3-4: 0.995772
+
+SUMMARY
+Mean |cos|: 0.9958296995161289
+Min  |cos|: 0.9955962390529878
+Max  |cos|: 0.9962773755284706
+
+INTERPRETATION:
+If mean |cos| → 1 :
+Universal hierarchical alignment attractor exists.

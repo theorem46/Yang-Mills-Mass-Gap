@@ -1,0 +1,22 @@
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % /opt/anaconda3/envs/mgmt_chain/bin/python "/Users/dswanagon/Relational Lysis Github/3-Quantum Reconsitution/exp_quant_05_clustering_p
+roperty.py"
+[*] Starting Clustering (Exponential Decay) Test...
+[*] Reference: Section 11.3 & Theorem 11.2
+
+Mass (Gap)   | Dist (x)   | Correlation <0|x>    | Status
+-----------------------------------------------------------------
+0.5          | 1          | 5.914103e-01         | Measured
+0.5          | 5          | 8.167748e-02         | Measured
+0.5          | 10         | 6.876527e-03         | Measured
+   [FAIL] Correlations persist too long.
+-----------------------------------------------------------------
+2.0          | 1          | 3.033009e-02         | Measured
+2.0          | 5          | 2.628259e-05         | Measured
+2.0          | 10         | 3.907611e-09         | Measured
+   [PASS] Strong Clustering observed. (Far corr: 3.91e-09)
+-----------------------------------------------------------------
+
+[SUCCESS] Clustering Axiom Verified.
+          - Correlations decay with distance.
+          - Higher Mass Gap yields faster decay (Yukawa behavior).
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % 

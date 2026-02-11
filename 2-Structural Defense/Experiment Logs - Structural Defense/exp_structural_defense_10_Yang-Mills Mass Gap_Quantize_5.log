@@ -1,0 +1,14 @@
+--- Infinite-Volume Interaction Scaling ---
+N =   256 | fixed-point ||D|| = 3.181981e-02
+N =   512 | fixed-point ||D|| = 3.181981e-02
+N =  1024 | fixed-point ||D|| = 3.181981e-02
+N =  2048 | fixed-point ||D|| = 3.181981e-02
+N =  4096 | fixed-point ||D|| = 3.181981e-02
+N =  8192 | fixed-point ||D|| = 3.181981e-02
+
+--- Scaling Ratios ---
+N 256 → 512 | ratio = 1.000000
+N 512 → 1024 | ratio = 1.000000
+N 1024 → 2048 | ratio = 1.000000
+N 2048 → 4096 | ratio = 1.000000
+N 4096 → 8192 | ratio = 1.000000

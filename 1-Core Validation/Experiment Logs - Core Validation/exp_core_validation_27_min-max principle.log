@@ -1,0 +1,13 @@
+RELATIONAL LYSIS — SCRIPT TYPE 9 (FINAL)
+Min–Max Principle Test
+--------------------------------------------------
+Estimated λ1 (Rayleigh):      2.4428611869e-04
+Eigenvalue Solver λ1:        2.4428611869e-04
+Theoretical λ1:              2.4428611869e-04
+Rayleigh / Eigen:            1.0000000000e+00
+Eigen / Theory:              1.0000000000e+00
+
+INTERPRETATION:
+Rayleigh minimum equals smallest eigenvalue.
+Relational Lysis satisfies Min–Max Principle.
+It is a true Laplacian spectral operator.

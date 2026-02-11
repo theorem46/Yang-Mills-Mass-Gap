@@ -1,0 +1,14 @@
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % /opt/anaconda3/envs/mgmt_chain/bin/python "/Users/dswanagon/Relational Lysis Github/3-Quantum Reconsitution/exp_quant_12_unitary_evol
+ution.py"
+[*] Starting Unitary Evolution (Probability Conservation) Test...
+[*] Reference: Theorem 12.6
+
+[*] Evolving system for time t = 2.5...
+    Unitarity Error ||U^t U - I||: 7.27e-15
+    Initial Norm: 1.000000
+    Final Norm:   1.000000
+
+[SUCCESS] Time Evolution is Unitary.
+          Probability is strictly conserved.
+          The Relational Lysis Geometry supports a valid S-Matrix.
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % 

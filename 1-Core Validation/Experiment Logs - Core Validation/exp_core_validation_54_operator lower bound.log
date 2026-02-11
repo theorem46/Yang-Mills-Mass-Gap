@@ -1,0 +1,11 @@
+RELATIONAL LYSIS — SCRIPT TYPE 34
+Operator Lower Bound Test
+---------------------------------------
+Minimum Rayleigh Quotient: 1.472429e+00
+Mean Rayleigh Quotient:    2.010899e+00
+Std Dev:                  1.800276e-01
+---------------------------------------
+INTERPRETATION:
+If minimum > 0:
+Operator has positive lower bound.
+Yang–Mills mass gap exists.

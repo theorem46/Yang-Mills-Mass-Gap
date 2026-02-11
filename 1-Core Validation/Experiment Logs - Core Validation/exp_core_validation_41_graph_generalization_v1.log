@@ -1,0 +1,31 @@
+--- Line ---
+PASS
+
+--- Ring ---
+PASS
+
+--- Star ---
+PASS
+
+--- Complete ---
+PASS
+
+--- BinaryTree ---
+PASS
+
+--- Ladder ---
+PASS
+
+--- Bipartite ---
+PASS
+
+--- GridGraph ---
+PASS
+
+--- SmallWorld ---
+PASS
+
+--- CycleOfCliques ---
+PASS
+
+OVERALL PASS

@@ -1,0 +1,16 @@
+
+RELATIONAL LYSIS — SCRIPT TYPE 12B
+Renormalized Continuum Scaling (The Pi^2 Test)
+---------------------------------------------------------
+N      Raw Lambda      Scaled (N^2*L)  Target (Pi^2)
+---------------------------------------------------------
+50     0.00379334        9.86648391         9.86960440
+100    0.00096744        9.86880868         9.86960440
+200    0.00024429        9.86940348         9.86960440
+400    0.00006138        9.86955392         9.86960440
+800    0.00001538        9.86959175         9.86960440
+---------------------------------------------------------
+INTERPRETATION:
+If Scaled Value converges to 9.8696...,
+You have proven the Relational Lysis operator
+recovers the continuum Laplacian exactly.

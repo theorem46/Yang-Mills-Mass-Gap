@@ -1,0 +1,16 @@
+RELATIONAL LYSIS — SCRIPT TYPE 33
+Continuum-Scaled Strong-Coupling Mass Gap Test
+------------------------------------------------------
+N     gap            N^2 * gap
+------------------------------------------------------
+20    2.233835e-02 8.935339e+00
+30    1.026135e-02 9.235218e+00
+40    5.868398e-03 9.389436e+00
+60    2.651820e-03 9.546553e+00
+80    1.504095e-03 9.626208e+00
+120   6.740694e-04 9.706599e+00
+------------------------------------------------------
+INTERPRETATION:
+If N^2 * gap -> constant as N increases:
+Relational Lysis contains a true Yang–Mills mass gap.
+Mass originates from geometry, not tuning.

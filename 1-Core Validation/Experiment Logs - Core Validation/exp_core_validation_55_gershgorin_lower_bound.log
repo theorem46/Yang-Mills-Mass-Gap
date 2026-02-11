@@ -1,0 +1,8 @@
+RELATIONAL LYSIS — SCRIPT TYPE 35
+Gershgorin Lower Bound Test
+------------------------------------
+Lower bound: -2.220446e-16
+------------------------------------
+INTERPRETATION:
+If bound > 0:
+Deterministic spectral gap exists.

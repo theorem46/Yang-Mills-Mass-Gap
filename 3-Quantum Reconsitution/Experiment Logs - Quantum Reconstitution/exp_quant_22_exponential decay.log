@@ -1,0 +1,13 @@
+
+RELATIONAL LYSIS — SCRIPT TYPE 42B
+Heavy Mass Calibration (Corrected Sign)
+--------------------------------------------------
+Input Mass parameter:  0.100000
+Theory Decay (mu):     0.099958
+Fitted Decay (slope):  0.099958
+Ratio (Fit / Theory):  1.000000
+Correlation R^2:       1.00000000
+--------------------------------------------------
+INTERPRETATION:
+Ratio ≈ 1.00 confirms that Relational Lysis
+reproduces exact Lattice Gauge Theory kinematics.

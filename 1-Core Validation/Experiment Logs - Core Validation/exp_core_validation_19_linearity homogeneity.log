@@ -1,0 +1,10 @@
+RELATIONAL LYSIS — SCRIPT AA1: LINEARITY TEST
+------------------------------------------------------------
+Additivity Test:
+||L(x+y) - (Lx+Ly)|| = 0
+
+Homogeneity Test:
+||L(c x) - c L(x)|| = 0
+
+INTERPRETATION:
+Zero confirms exact linearity under integer arithmetic.

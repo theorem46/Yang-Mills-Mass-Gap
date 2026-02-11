@@ -1,0 +1,20 @@
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % /opt/anaconda3/envs/mgmt_chain/bin/python "/Users/dswanagon/Relational Lysis Github/3-Quantum Reconsitution/exp_quant_15_beta_functio
+n.py"
+[*] Starting Beta Function (Asymptotic Freedom) Test...
+[*] Reference: Theorem 11.6 (Negative Beta Function)
+
+Scale (mu)   | Eff. Coupling (g)    | Regime
+------------------------------------------------------------
+mu=64        | 0.001752               | UV (Weak)
+mu=32        | 0.006802               | UV (Weak)
+mu=16        | 0.025688               | IR (Strong)
+mu=8         | 0.092396               | IR (Strong)
+------------------------------------------------------------
+[*] UV Coupling (High E): 0.001752
+[*] IR Coupling (Low E):  0.092396
+[*] Beta Function (Slope): -0.043591
+
+[SUCCESS] Beta Function is NEGATIVE.
+          Coupling decreases at high energies (Asymptotic Freedom).
+          Coupling increases at low energies (Confinement).
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % 

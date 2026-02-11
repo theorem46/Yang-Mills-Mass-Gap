@@ -1,0 +1,22 @@
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % /opt/anaconda3/envs/mgmt_chain/bin/python "/Users/dswanagon/Relational Lysis Github/3-Quantum Reconsitution/exp_quant_01_operator_pos
+itivity.py"
+[*] Starting Quantum Operator Positivity Test...
+[*] Reference: Section 9.2 (Operator Derivation)
+
+Trial    | Symmetry Error     | Min Eigenvalue     | Status
+-----------------------------------------------------------------
+1        | 0.0000e+00         | -1.3690e-31         | PASS
+2        | 0.0000e+00         | -5.3291e-15         | PASS
+3        | 0.0000e+00         | 3.5527e-15         | PASS
+4        | 0.0000e+00         | -1.8946e-50         | PASS
+5        | 0.0000e+00         | -3.5527e-15         | PASS
+6        | 0.0000e+00         | -1.7764e-15         | PASS
+7        | 0.0000e+00         | -1.7764e-15         | PASS
+8        | 0.0000e+00         | -4.2560e-29         | PASS
+9        | 0.0000e+00         | 3.5527e-15         | PASS
+10       | 0.0000e+00         | -3.5527e-15         | PASS
+-----------------------------------------------------------------
+
+[SUCCESS] Operator is Self-Adjoint and Positive-Definite.
+          Valid foundation for Quantum Hamiltonian.
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % 

@@ -1,0 +1,23 @@
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % /opt/anaconda3/envs/mgmt_chain/bin/python "/Users/dswanagon/Relational Lysis Github/1-Core Validation/exp_core_validation_04_pi_norma
+lization.py"
+[*] Starting Pi Normalization Test...
+[*] Reference: Theorem 3.26 (Identification with Pi)
+
+Resolution   | Scale (R)  | Circumf    | Diameter   | Ratio (N)    | Error     
+--------------------------------------------------------------------------------
+10           | 1.0        | 8.7403     | 2.8284     | 3.090170     | 5.14e-02
+100          | 1.0        | 8.8843     | 2.8284     | 3.141076     | 5.17e-04
+1000         | 1.0        | 8.8858     | 2.8284     | 3.141587     | 5.17e-06
+10000        | 1.0        | 8.8858     | 2.8284     | 3.141593     | 5.17e-08
+100000       | 1.0        | 8.8858     | 2.8284     | 3.141593     | 5.17e-10
+--------------------------------------------------------------------------------
+
+[*] Verifying Scale Invariance (Theorem A.1)...
+   Radius 1.0e+00 -> Ratio: 3.14159
+   Radius 5.0e+01 -> Ratio: 3.14159
+   Radius 1.0e-09 -> Ratio: 3.14159
+
+[SUCCESS] Theorem 3.26 Validated.
+          - Intrinsic Geometry normalizes to Pi.
+          - Normalization is independent of Scale (Radius).
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % 

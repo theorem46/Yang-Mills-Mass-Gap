@@ -1,0 +1,16 @@
+[*] Starting Mass-Commutator Scaling Test...
+[*] Reference: Theorem 4.3 (Deterministic Mass Generation)
+
+Twist (g)    | Commutator ||K||     | Mass Gap (Delta)   | Ratio (Gap/K)
+---------------------------------------------------------------------------
+0.1          | 0.140712             | 0.104337           | 0.7415
+0.5          | 0.703562             | 0.188809           | 0.2684
+1.0          | 1.407125             | 0.305514           | 0.2171
+2.0          | 2.814249             | 0.472485           | 0.1679
+5.0          | 7.035624             | 0.806315           | 0.1146
+10.0         | 14.071247            | 1.185932           | 0.0843
+---------------------------------------------------------------------------
+
+[SUCCESS] Mass Gap verified.
+          Non-Zero Commutator produces Non-Zero Mass.
+          Functional dependence confirmed.

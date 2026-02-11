@@ -1,0 +1,24 @@
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % /opt/anaconda3/envs/mgmt_chain/bin/python "/Users/dswanagon/Relational Lysis Github/6-Universal Validation/exp_uni_05_light_emergence
+.py"
+[*] Starting Light Emergence Test...
+[*] Goal: Derive 'c' and Mass-Velocity relationship
+
+[*] Testing Free Shadow Propagation (Photon)...
+    Energy 1.0        -> Velocity: 1.0000 c
+    Energy 10.0       -> Velocity: 1.0000 c
+    Energy 1000.0     -> Velocity: 1.0000 c
+    Energy 1000000.0  -> Velocity: 1.0000 c
+
+[*] Testing Bound Shadow Propagation (Massive Particle)...
+    Mass 0.1        -> Velocity: 0.9091 c
+    Mass 0.5        -> Velocity: 0.6667 c
+    Mass 1.0        -> Velocity: 0.5000 c
+    Mass 5.0        -> Velocity: 0.1667 c
+    Mass 10.0       -> Velocity: 0.0909 c
+------------------------------------------------------------
+
+[SUCCESS] Speed Limits Emerged.
+          1. Light Speed (c=1) is the lattice update limit.
+          2. Light Speed is independent of Energy.
+          3. Massive particles travel slower than c.
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % 

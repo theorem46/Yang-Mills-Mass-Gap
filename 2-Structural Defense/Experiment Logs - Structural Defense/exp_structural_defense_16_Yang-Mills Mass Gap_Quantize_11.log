@@ -1,0 +1,10 @@
+--- KO TEST: Geometric Primacy vs Yang–Mills Dynamics ---
+Solved-state tower depth: 4
+Standard YM embedding: mass_gap = True
+Strongly distorted YM embedding: mass_gap = True
+Pathological YM embedding: mass_gap = True
+
+--- Verdict ---
+PASS:
+Mass gap invariant across dynamically inequivalent embeddings.
+=> Mass gap is geometric, not dynamical.

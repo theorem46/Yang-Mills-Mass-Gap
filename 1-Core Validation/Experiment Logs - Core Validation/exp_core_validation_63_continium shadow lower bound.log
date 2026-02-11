@@ -1,0 +1,63 @@
+RELATIONAL LYSIS — CONTINUUM SHADOW LOWER-BOUND TEST
+-----------------------------------------------------
+
+Dimension N = 128
+ Trial 0: shadow = 0.907655
+ Trial 1: shadow = 0.909510
+ Trial 2: shadow = 0.889479
+ Trial 3: shadow = 0.905961
+ Trial 4: shadow = 0.887069
+ Trial 5: shadow = 0.896443
+ Trial 6: shadow = 0.911547
+ Trial 7: shadow = 0.902766
+ Trial 8: shadow = 0.915945
+ Trial 9: shadow = 0.921447
+ -> Min shadow:  0.887069
+ -> Mean shadow: 0.904782
+
+Dimension N = 256
+ Trial 0: shadow = 0.903890
+ Trial 1: shadow = 0.880888
+ Trial 2: shadow = 0.916112
+ Trial 3: shadow = 0.907734
+ Trial 4: shadow = 0.914322
+ Trial 5: shadow = 0.916487
+ Trial 6: shadow = 0.913076
+ Trial 7: shadow = 0.908552
+ Trial 8: shadow = 0.922260
+ Trial 9: shadow = 0.908260
+ -> Min shadow:  0.880888
+ -> Mean shadow: 0.909158
+
+Dimension N = 512
+ Trial 0: shadow = 0.906690
+ Trial 1: shadow = 0.909223
+ Trial 2: shadow = 0.906846
+ Trial 3: shadow = 0.910847
+ Trial 4: shadow = 0.915049
+ Trial 5: shadow = 0.921460
+ Trial 6: shadow = 0.910499
+ Trial 7: shadow = 0.903272
+ Trial 8: shadow = 0.904201
+ Trial 9: shadow = 0.910508
+ -> Min shadow:  0.903272
+ -> Mean shadow: 0.909860
+
+Dimension N = 1024
+ Trial 0: shadow = 0.904922
+ Trial 1: shadow = 0.907674
+ Trial 2: shadow = 0.912140
+ Trial 3: shadow = 0.914227
+ Trial 4: shadow = 0.907313
+ Trial 5: shadow = 0.912502
+ Trial 6: shadow = 0.920062
+ Trial 7: shadow = 0.911336
+ Trial 8: shadow = 0.916618
+ Trial 9: shadow = 0.907864
+ -> Min shadow:  0.904922
+ -> Mean shadow: 0.911466
+
+INTERPRETATION:
+If minimum shadow does NOT trend toward 0 as N grows,
+shadow lower bound is lattice-independent.
+This supports true kernel/gap separation.

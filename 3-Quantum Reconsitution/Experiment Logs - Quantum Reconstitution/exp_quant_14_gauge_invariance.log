@@ -1,0 +1,14 @@
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % /opt/anaconda3/envs/mgmt_chain/bin/python "/Users/dswanagon/Relational Lysis Github/3-Quantum Reconsitution/exp_quant_14_gauge_invari
+ance.py"
+[*] Starting Gauge Invariance (Symmetry) Test...
+[*] Reference: Theorem 8.4 (Spectral Invariance)
+
+[*] Original Ground State Energy:    0.015987
+[*] Applying Gauge Transform G(x) (Scrambling fields)...
+[*] Transformed Ground State Energy: 0.015987
+    Spectral Deviation Error:        2.01e-15
+
+[SUCCESS] Gauge Invariance Confirmed.
+          Physics is independent of the coordinate system.
+          Theorem 8.4 Validated.
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % 

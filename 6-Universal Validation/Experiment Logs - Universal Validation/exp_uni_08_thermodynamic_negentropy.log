@@ -1,0 +1,14 @@
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % /opt/anaconda3/envs/mgmt_chain/bin/python "/Users/dswanagon/Relational Lysis Github/6-Universal Validation/exp_uni_08_thermodynamic_n
+egentropy.py"
+[*] Starting Thermodynamics (Negentropy) Test...
+[*] Goal: Prove Solved State has Lower Entropy than Prime State
+
+[*] Prime State (Chaos):   Entropy = 5.3245 bits
+[*] Running Harmonic Lysis (Relaxation)...
+[*] Solved State (Order):  Entropy = 3.2732 bits
+[*] Change in Entropy:     -2.0512 bits
+
+[SUCCESS] Negentropy Confirmed.
+          The Solved State is a Low-Entropy Attractor.
+          (Chaos naturally evolves into Geometric Order).
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % 

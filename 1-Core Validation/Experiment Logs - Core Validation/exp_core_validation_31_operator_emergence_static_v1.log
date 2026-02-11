@@ -1,0 +1,62 @@
+
+--- A1 ---
+Unique stencils in D: 4
+Unique stencils in S: 6
+PASS
+
+--- A2 ---
+Unique stencils in D: 2
+Unique stencils in S: 4
+PASS
+
+--- A3 ---
+Unique stencils in D: 28
+Unique stencils in S: 126
+PASS
+
+--- B1 ---
+Unique stencils in D: 2
+Unique stencils in S: 1
+PASS
+
+--- B2 ---
+Unique stencils in D: 22
+Unique stencils in S: 1
+PASS
+
+--- B3 ---
+Unique stencils in D: 198
+Unique stencils in S: 1
+PASS
+
+--- C1 ---
+Unique stencils in D: 1
+Unique stencils in S: 1
+PASS
+
+--- C2 ---
+Unique stencils in D: 1
+Unique stencils in S: 1
+PASS
+
+--- D1 ---
+Unique stencils in D: 94
+Unique stencils in S: 93
+PASS
+
+--- D2 ---
+Unique stencils in D: 3
+Unique stencils in S: 7
+PASS
+
+--- D3 ---
+Unique stencils in D: 12
+Unique stencils in S: 14
+PASS
+
+--- D4 ---
+Unique stencils in D: 198
+Unique stencils in S: 197
+PASS
+
+OVERALL PASS

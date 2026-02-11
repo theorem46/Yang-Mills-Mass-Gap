@@ -1,0 +1,21 @@
+--- G1 ---
+Depth original: 2
+Depth perturbed: 2
+PASS
+
+--- G2 ---
+Depth original: 100
+Depth perturbed: 99
+PASS
+
+--- G3 ---
+Depth original: 4
+Depth perturbed: 4
+PASS
+
+--- G4 ---
+Depth original: 1
+Depth perturbed: 2
+PASS
+
+OVERALL PASS

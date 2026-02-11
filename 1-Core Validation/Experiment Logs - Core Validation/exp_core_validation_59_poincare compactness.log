@@ -1,0 +1,12 @@
+RELATIONAL LYSIS — SCRIPT TYPE 39
+Poincaré Inequality / Compactness Test
+-----------------------------------------
+Min  <x,Lx>/||x||^2 : 1.766948
+Mean <x,Lx>/||x||^2 : 1.999610
+Std  deviation     : 0.082301
+-----------------------------------------
+INTERPRETATION:
+If minimum > 0:
+Relational Lysis satisfies a Poincaré inequality.
+Operator is coercive and has a spectral gap.
+Compact resolvent follows -> discrete spectrum.

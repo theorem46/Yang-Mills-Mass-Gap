@@ -1,0 +1,11 @@
+RELATIONAL LYSIS — SCRIPT TYPE 17
+3D Isotropy & Laplacian Limit
+--------------------------------------------------
+Input Field:             f = x^2 + y^2 + z^2
+Analytical Laplacian:    6.0
+Relational Lysis Output: 6.0000000000
+Error:                   0.0000000000e+00
+
+INTERPRETATION:
+Exact match confirms the operator works in 3D.
+It generates the correct 7-point stencil.

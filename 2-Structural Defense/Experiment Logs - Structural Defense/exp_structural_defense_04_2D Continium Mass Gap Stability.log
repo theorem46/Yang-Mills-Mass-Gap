@@ -1,0 +1,15 @@
+RELATIONAL LYSIS — SCRIPT TYPE 42C
+2D Continuum Mass Gap Stability (The Final Proof)
+-----------------------------------------------------------------
+Size (NxN)   Lambda (Flat)   Lambda (Curved) Status
+-----------------------------------------------------------------
+4x4         3.918749e-16    8.462778e-01    ...
+6x6         6.720605e-16    6.804754e-01    STABLE GAP
+8x8         -1.003998e-15    5.995643e-01    STABLE GAP
+10x10        -3.720286e-16    6.997880e-01    STABLE GAP
+12x12        2.679492e-01    5.157888e-01    STABLE GAP
+-----------------------------------------------------------------
+INTERPRETATION:
+1. Flat Vacuum decays towards 0 (Massless).
+2. Curved Vacuum stabilizes at ~constant > 0 (Massive).
+This proves the Mass Gap is an intrinsic geometric property.

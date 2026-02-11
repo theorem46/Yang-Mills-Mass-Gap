@@ -1,0 +1,22 @@
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % /opt/anaconda3/envs/mgmt_chain/bin/python "/Users/dswanagon/Relational Lysis Github/2-Structural Defense/exp_structural_defense_02_in
+finite_volume_scaling.py"
+[*] Starting Infinite Volume Scaling Test...
+[*] Reference: Theorem 3.37 (Infinite-Volume Stability)
+
+Volume (N)      | Diamond Scale (Mass) | Status
+------------------------------------------------------------
+20              | 1.460383               | Calculated
+50              | 1.407227               | Calculated
+100             | 1.346663               | Calculated
+200             | 1.361259               | Calculated
+500             | 1.413591               | Calculated
+800             | 1.411142               | Calculated
+------------------------------------------------------------
+[*] Asymptotic Variance (Stability): 5.81e-04
+[*] Average Intrinsic Scale (Mass):  1.3953
+
+============================================================
+[SUCCESS] Theorem 3.37 Validated: Mass scale is volume-invariant.
+          The gap survives the thermodynamic limit (N -> inf).
+============================================================
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % 

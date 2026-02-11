@@ -1,0 +1,31 @@
+--- Reverse Falsification Test: Nonlinearity ⇒ Instability ---
+Solved-state tower depth: 4
+
+Nonlinearity strength = 1
+  finite        : True
+  instability  : False
+  mass gap     : True
+
+Nonlinearity strength = 2
+  finite        : True
+  instability  : False
+  mass gap     : True
+
+Nonlinearity strength = 4
+  finite        : True
+  instability  : False
+  mass gap     : True
+
+Nonlinearity strength = 8
+  finite        : True
+  instability  : False
+  mass gap     : True
+
+Nonlinearity strength = 16
+  finite        : True
+  instability  : False
+  mass gap     : True
+
+INTERPRETATION:
+If instability never appears despite increasing nonlinearity,
+then nonlinearity alone is not a sufficient cause of instability.

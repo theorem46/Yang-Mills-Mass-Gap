@@ -1,0 +1,17 @@
+RELATIONAL LYSIS — SCRIPT TYPE 11
+Weyl Law Spectral Scaling
+--------------------------------------------------
+Fitted exponent: 1.884696
+Expected exponent for 1D Laplacian: 2.0
+
+Sample values:
+k=1      λ_k=6.153079e-05
+k=5      λ_k=5.537544e-04
+k=10     λ_k=1.861027e-03
+k=50     λ_k=3.987737e-02
+k=100    λ_k=1.548784e-01
+k=150    λ_k=3.406101e-01
+
+INTERPRETATION:
+λ_k ∝ k^p with p ≈ 2 confirms Weyl law.
+Relational Lysis lies in Laplace–Beltrami universality class.

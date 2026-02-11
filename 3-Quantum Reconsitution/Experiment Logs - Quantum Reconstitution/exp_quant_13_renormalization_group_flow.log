@@ -1,0 +1,18 @@
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % /opt/anaconda3/envs/mgmt_chain/bin/python "/Users/dswanagon/Relational Lysis Github/3-Quantum Reconsitution/exp_quant_13_renormalizat
+ion_group_flow.py"
+[*] Starting Renormalization Group (RG) Flow Test...
+[*] Reference: Theorem 11.5 (Gap Stability)
+
+Scale (N)    | Mass Gap (E1-E0)     | Status
+--------------------------------------------------
+N=64         | 0.007001               | OPEN
+N=32         | 0.013543               | OPEN
+N=16         | 0.025250               | OPEN
+N=8          | 0.043412               | OPEN
+--------------------------------------------------
+[*] Initial UV Gap (Micro): 0.007001
+[*] Final IR Gap (Macro):   0.043412
+
+[SUCCESS] Mass Gap persists in the IR Limit.
+          The theory is not Critical (Massless).
+          Renormalization Flow confirms a stable massive phase.

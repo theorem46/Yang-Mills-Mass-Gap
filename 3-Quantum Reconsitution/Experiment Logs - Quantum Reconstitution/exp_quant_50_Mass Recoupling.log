@@ -1,0 +1,11 @@
+RELATIONAL LYSIS — SCRIPT TYPE 30
+Yang–Mills Mass Gap vs Coupling
+---------------------------------
+beta=0.1    gap=0.000847
+beta=0.3    gap=0.010221
+beta=0.5    gap=0.027343
+beta=1.0    gap=0.068613
+beta=2.0    gap=0.074907
+---------------------------------
+If gap remains positive across betas:
+Mass gap is geometric, not coupling-tuned.

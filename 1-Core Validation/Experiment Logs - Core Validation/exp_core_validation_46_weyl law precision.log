@@ -1,0 +1,19 @@
+RELATIONAL LYSIS — SCRIPT TYPE 11B
+Weyl Law Precision Test (Low-Energy Limit)
+--------------------------------------------------
+Lattice Size (N): 2000
+Fit Window (k):   1 to 50
+Fitted Exponent:  1.999859
+Error from 2.0:   0.000141
+
+Check first 5 ratios (lambda / k^2):
+k=1: Ratio=2.464935e-06 (Norm: 1.0000)
+k=2: Ratio=2.464934e-06 (Norm: 1.0000)
+k=3: Ratio=2.464931e-06 (Norm: 1.0000)
+k=4: Ratio=2.464927e-06 (Norm: 1.0000)
+k=5: Ratio=2.464923e-06 (Norm: 1.0000)
+
+INTERPRETATION:
+If Exponent is > 1.99, the deviation in Script 11
+was purely due to high-energy lattice artifacts.
+The operator is perfect in the continuum.

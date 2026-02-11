@@ -1,0 +1,48 @@
+>>> RL FALSIFIED: admissible non-Gaussian solved state <<<
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % /opt/anaconda3/envs/mgmt_chain/bin/python "/Users/dswanagon/Relational Lysis Github/2-Structural Defense/exp_structural_defense_01_in
+teraction_decomposition.py"
+[*] Starting Interaction & Noise Decomposition Test...
+[*] Reference: Theorem 3.31 (Interaction) & Theorem 13.12 (Absorption)
+
+--- Testing: Coupling Alpha=0.1 | Noise Sigma=0.0 ---
+    > Lysis Converged: True
+    > Hierarchy Depth: 1
+    > Terminal Diamond Norm: 15.554339
+    [PASS] Stable Non-Trivial Geometry Found.
+
+--- Testing: Coupling Alpha=0.1 | Noise Sigma=0.2 ---
+    > Lysis Converged: True
+    > Hierarchy Depth: 1
+    > Terminal Diamond Norm: 15.559285
+    [PASS] Stable Non-Trivial Geometry Found.
+
+--- Testing: Coupling Alpha=1.0 | Noise Sigma=0.0 ---
+    > Lysis Converged: True
+    > Hierarchy Depth: 1
+    > Terminal Diamond Norm: 111.284560
+    [PASS] Stable Non-Trivial Geometry Found.
+
+--- Testing: Coupling Alpha=1.0 | Noise Sigma=0.2 ---
+    > Lysis Converged: True
+    > Hierarchy Depth: 1
+    > Terminal Diamond Norm: 111.270662
+    [PASS] Stable Non-Trivial Geometry Found.
+
+--- Testing: Coupling Alpha=5.0 | Noise Sigma=0.0 ---
+    > Lysis Converged: True
+    > Hierarchy Depth: 1
+    > Terminal Diamond Norm: 537.256971
+    [PASS] Stable Non-Trivial Geometry Found.
+
+--- Testing: Coupling Alpha=5.0 | Noise Sigma=0.2 ---
+    > Lysis Converged: True
+    > Hierarchy Depth: 1
+    > Terminal Diamond Norm: 537.240662
+    [PASS] Stable Non-Trivial Geometry Found.
+
+============================================================
+[SUCCESS] ALL TESTS PASSED.
+Theorem 3.31 Validated: Interaction states map to solved geometries.
+Theorem 13.12 Validated: Noise is absorbed or annihilated.
+============================================================
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % 

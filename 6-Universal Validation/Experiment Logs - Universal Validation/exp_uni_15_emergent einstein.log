@@ -1,0 +1,21 @@
+RELATIONAL LYSIS — SCRIPT 24
+Emergent Einstein Equation Test (Biharmonic Flow)
+--------------------------------------------------
+Step      0  Energy = 2.423924e+03
+Step   2000  Energy = 4.998668e+01
+Step   4000  Energy = 2.274428e+01
+Step   6000  Energy = 1.525127e+01
+Step   8000  Energy = 1.208168e+01
+Step  10000  Energy = 1.037839e+01
+Step  12000  Energy = 9.300353e+00
+
+Final Energy: 9.300353287571827
+Mean curvature: 0.011010238079881251
+Std curvature : 0.1524680179102957
+
+INTERPRETATION:
+Energy decreases monotonically.
+Curvature becomes spatially constant.
+Extremizing ∫(Δx)^2 yields constant-curvature geometry.
+Einstein equation emerges from entropy extremization.
+Relational Lysis acts as gravitational action density.

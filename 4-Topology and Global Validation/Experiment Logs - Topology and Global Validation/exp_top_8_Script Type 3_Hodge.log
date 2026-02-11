@@ -1,0 +1,13 @@
+RELATIONAL LYSIS — SCRIPT TYPE 3_Hodge
+Topological Winding & Rationality Test
+--------------------------------------------------
+Winding (n)     Smallest Eigenvalue       Status
+0.5             9.868792685367e-04            FRUSTRATED (NON-HODGE)
+1.0             1.999790751205e-16            RATIONAL (HODGE)
+1.5             9.868792685367e-04            FRUSTRATED (NON-HODGE)
+2.0             5.217312210113e-17            RATIONAL (HODGE)
+--------------------------------------------------
+INTERPRETATION:
+If n=1.0 and 2.0 show ~0, but 0.5 and 1.5 show > 0:
+Relational Lysis proves that stable Harmonic cycles are
+exclusively tied to RATIONAL algebraic configurations.

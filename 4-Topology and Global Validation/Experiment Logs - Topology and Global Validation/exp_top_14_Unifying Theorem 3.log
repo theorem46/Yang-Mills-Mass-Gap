@@ -1,0 +1,16 @@
+Estimated attractor norm: 1.0
+Trial 0: parallel=0.996225 orth=0.086812 ratio=11.48
+Trial 1: parallel=0.995886 orth=0.090611 ratio=10.99
+Trial 2: parallel=0.996241 orth=0.086630 ratio=11.50
+Trial 3: parallel=0.996026 orth=0.089061 ratio=11.18
+Trial 4: parallel=0.996359 orth=0.085253 ratio=11.69
+Trial 5: parallel=0.996293 orth=0.086022 ratio=11.58
+Trial 6: parallel=0.996071 orth=0.088560 ratio=11.25
+Trial 7: parallel=0.995805 orth=0.091500 ratio=10.88
+Trial 8: parallel=0.995848 orth=0.091031 ratio=10.94
+Trial 9: parallel=0.995710 orth=0.092530 ratio=10.76
+
+Mean ratio: 11.225016018888478
+
+INTERPRETATION:
+Large ratio >> 1 implies kernel/gap separation.

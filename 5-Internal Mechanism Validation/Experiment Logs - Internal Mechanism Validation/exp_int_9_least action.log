@@ -1,0 +1,32 @@
+RELATIONAL LYSIS — SCRIPT TYPE 17 (BIHARMONIC FLOW)
+Least Action / Path Integral Test
+--------------------------------------------------
+Initial Action: 2127.9401587838993
+Step 0     Action = 2.123263e+03
+Step 1000  Action = 3.577233e+02
+Step 2000  Action = 1.270142e+02
+Step 3000  Action = 6.835805e+01
+Step 4000  Action = 4.491216e+01
+Step 5000  Action = 3.277299e+01
+Step 6000  Action = 2.544546e+01
+Step 7000  Action = 2.057811e+01
+Step 8000  Action = 1.713328e+01
+Step 9000  Action = 1.458268e+01
+Step 10000 Action = 1.262841e+01
+Step 11000 Action = 1.108971e+01
+Step 12000 Action = 9.850864e+00
+Step 13000 Action = 8.834707e+00
+Step 14000 Action = 7.988013e+00
+Step 15000 Action = 7.273034e+00
+Step 16000 Action = 6.662329e+00
+Step 17000 Action = 6.135509e+00
+Step 18000 Action = 5.677120e+00
+Step 19000 Action = 5.275243e+00
+Final Action: 4.920870725702984
+Mean |Lysis|: 0.08867060372517302
+
+INTERPRETATION:
+Action decreases monotonically.
+Path smooths.
+Relational Lysis acts as action density.
+Least Action Principle emerges.

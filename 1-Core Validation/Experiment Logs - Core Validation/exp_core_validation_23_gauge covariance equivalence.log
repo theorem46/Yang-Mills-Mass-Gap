@@ -1,0 +1,10 @@
+RELATIONAL LYSIS — SCRIPT TYPE 5
+----------------------------------------------------
+Gauge Laplacian Energy: 1.317380961914e-01
+Gauge Lysis Energy:     1.317380961914e-01
+Ratio (Lysis/Lap):      1.000000000000e+00
+
+INTERPRETATION:
+Ratio ≈ 1 confirms:
+Relational Lysis equals gauge-covariant Laplacian.
+This is the Yang-Mills kinetic operator.

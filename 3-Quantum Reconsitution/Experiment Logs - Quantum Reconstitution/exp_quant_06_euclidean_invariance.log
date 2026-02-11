@@ -1,0 +1,14 @@
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % /opt/anaconda3/envs/mgmt_chain/bin/python "/Users/dswanagon/Relational Lysis Github/3-Quantum Reconsitution/exp_quant_06_euclidean_in
+variance.py"
+[*] Starting Euclidean Invariance (Isotropy) Test...
+[*] Reference: Section 11.2
+
+Symmetry Type        | Point A         | Point B         | Diff         | Status
+---------------------------------------------------------------------------
+Rotation (90 deg)    | 0.105694          | 0.105694          | 1.39e-17     | PASS
+Reflection (Parity)  | 0.059774          | 0.059774          | 6.94e-18     | PASS
+---------------------------------------------------------------------------
+
+[SUCCESS] Geometry is Isotropic (Euclidean Invariance Holds).
+          Vacuum correlations depend only on distance, not angle.
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % 

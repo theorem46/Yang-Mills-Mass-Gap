@@ -1,0 +1,13 @@
+RELATIONAL LYSIS — SCRIPT TYPE 39b
+True Ground State Search (Inverse Iteration)
+-----------------------------------------------------
+N     Calculated Lambda_1  Expected (pi/N)^2   
+-----------------------------------------------------
+50    3.793343e-03         3.794542e-03
+100   9.674354e-04         9.675134e-04
+200   2.442861e-04         2.442911e-04
+-----------------------------------------------------
+INTERPRETATION:
+If Calculated matches Expected, our 'Ground State Hunter'
+is working. We can now trust it to find the Mass Gap
+in the Yang-Mills scripts.
