@@ -1,0 +1,29 @@
+RELATIONAL LYSIS: GAP CLOSURE 01
+Operator Natural Selection Tournament
+================================================================
+Objective: Derive the Laplacian solely from Symmetry Preservation.
+Input:     Random Pure Diamond State (Symmetric Matrix).
+Test:      Does Op(Diamond) remain a Diamond?
+----------------------------------------------------------------
+Input State Shadow Leakage: 0.00e+00 (Pure Symmetric)
+----------------------------------------------------------------
+CANDIDATE OPERATOR        | SHADOW LEAKAGE  | VERDICT
+----------------------------------------------------------------
+Gradient (1st Order)      | 7.03e-01      | ELIMINATED (Generated Shadow)
+Advection (Mixed)         | 0.00e+00      | SURVIVED (Preserved Geometry)
+Laplacian (Isotropic)     | 2.86e-17      | SURVIVED (Preserved Geometry)
+Laplacian (Anisotropic)   | 3.99e-01      | ELIMINATED (Generated Shadow)
+Cross-Deriv (dxy)         | 4.11e-17      | SURVIVED (Preserved Geometry)
+Biharmonic (4th Order)    | 3.61e-17      | SURVIVED (Preserved Geometry)
+Dispersive (3rd Order)    | 7.01e-01      | ELIMINATED (Generated Shadow)
+Random Stencil A          | 8.81e-01      | ELIMINATED (Generated Shadow)
+Random Stencil B          | 0.00e+00      | SURVIVED (Preserved Geometry)
+----------------------------------------------------------------
+
+TOURNAMENT RESULTS:
+Survivors: ['Advection (Mixed)', 'Laplacian (Isotropic)', 'Cross-Deriv (dxy)', 'Biharmonic (4th Order)', 'Random Stencil B']
+
+NOTE: Biharmonic also preserves symmetry, but requires
+      deeper stencil support (4th order).
+      Relational Lysis selects the MINIMAL local survivor.
+      -> WINNER: Covariant Laplacian

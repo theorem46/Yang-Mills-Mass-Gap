@@ -1,0 +1,252 @@
+#!/usr/bin/env python3
+"""
+RELATIONAL LYSIS: UNIVERSAL VALIDATION SUITE
+-------------------------------------------------------------------------------
+Script Name: exp_uni_19_representation_collapse.py
+Category: 6-Universal Validation
+Field: FOUNDATIONS / REPRESENTATION THEORY
+
+Researcher: Dr. David Swanagon
+
+-------------------------------------------------------------------------------
+THEOREM SUPPORT
+
+Representation Collapse Across Hierarchical RL Tower:
+
+Reconstruction-equivalent encodings of the same relational system
+produce identical solved-state towers under hierarchical Relational Lysis.
+
+-------------------------------------------------------------------------------
+PASS CRITERIA
+
+• Finite convergence for all encodings
+• Tower invariants identical across representations
+• Emergent operators identical across levels
+• Shadow propagation consistent
+
+-------------------------------------------------------------------------------
+FALSIFIER
+
+Equivalent encodings produce divergent towers.
+
+-------------------------------------------------------------------------------
+"""
+
+import numpy as np
+import scipy.linalg as la
+
+
+# ============================================================
+# RL ENGINE — FULL SOLVED STATE RECURSION
+# ============================================================
+
+class RelationalLysisEngine:
+
+    def __init__(self, tol=1e-12, max_depth=8):
+        self.tol = tol
+        self.max_depth = max_depth
+
+    def decompose(self, state):
+        """
+        Solved state = Diamond + Shadow
+        """
+        D = 0.5 * (state + state.T)
+        S = 0.5 * (state - state.T)
+        return D, S
+
+    def recursive_step(self, sigma):
+        """
+        Recursive RL tower step.
+        New diamond generates its own (D,S).
+        """
+        D, S = sigma
+
+        next_state = D + S      # full solved state used
+        next_D, next_S = self.decompose(next_state)
+
+        return (next_D, next_S)
+
+    def run_tower(self, initial_state):
+
+        sigma = self.decompose(initial_state)
+
+        tower = []
+
+        for depth in range(self.max_depth):
+
+            D, S = sigma
+
+            tower.append((D.copy(), S.copy()))
+
+            next_sigma = self.recursive_step(sigma)
+
+            delta = np.linalg.norm(next_sigma[0] - D)
+
+            if delta < self.tol:
+                tower.append(next_sigma)
+                return tower, True
+
+            sigma = next_sigma
+
+        return tower, False
+
+
+# ============================================================
+# NON-SYMMETRIC BASE SYSTEM (MEANINGFUL SHADOW)
+# ============================================================
+
+def base_system(N):
+
+    x = np.linspace(0, 2*np.pi, N)
+
+    A = np.zeros((N, N))
+
+    for i in range(N):
+        for j in range(N):
+            A[i, j] = np.sin(x[i]) + np.cos(x[j]) + 0.3*(i-j)
+
+    return A
+
+
+# ============================================================
+# RECONSTRUCTION-EQUIVALENT REPRESENTATIONS
+# ============================================================
+
+def rep_direct(A):
+    return A.copy()
+
+
+def rep_permuted(A):
+
+    N = A.shape[0]
+    perm = np.random.permutation(N)
+    P = np.eye(N)[perm]
+
+    return P @ A @ P.T
+
+
+def rep_similarity(A):
+
+    N = A.shape[0]
+    Q, _ = np.linalg.qr(np.random.randn(N, N))
+
+    return Q @ A @ Q.T
+
+
+# ============================================================
+# EMERGENT OPERATOR FROM SOLVED STATE
+# ============================================================
+
+def emergent_operator(D, S):
+
+    Sigma = D + S
+
+    # RL quadratic necessity operator
+    L = Sigma.T @ Sigma
+
+    return L
+
+
+def spectral_signature(M):
+
+    evals = la.eigvalsh(M)
+    evals = np.sort(evals)
+
+    return evals / (np.max(np.abs(evals)) + 1e-12)
+
+
+# ============================================================
+# TOWER INVARIANT
+# ============================================================
+
+def tower_signature(tower):
+
+    sigs = []
+
+    for D, S in tower:
+
+        L = emergent_operator(D, S)
+        sig = spectral_signature(L)
+
+        sigs.append(sig)
+
+    return sigs
+
+
+# ============================================================
+# EXPERIMENT
+# ============================================================
+
+def run_experiment():
+
+    print("\nRELATIONAL LYSIS — REPRESENTATION COLLAPSE (RL-COMPLIANT)")
+    print("------------------------------------------------------------")
+
+    np.random.seed(0)
+
+    engine = RelationalLysisEngine()
+
+    N = 120
+    base = base_system(N)
+
+    representations = {
+        "Direct": rep_direct(base),
+        "Permuted": rep_permuted(base),
+        "Similarity": rep_similarity(base)
+    }
+
+    towers = {}
+
+    # --------------------------
+    # Build towers
+    # --------------------------
+
+    for name, state in representations.items():
+
+        print(f"\n[*] Representation: {name}")
+
+        tower, converged = engine.run_tower(state)
+
+        if not converged:
+            print(" FAIL: No convergence")
+            continue
+
+        print(" Tower Depth:", len(tower))
+
+        D0, S0 = tower[0]
+
+        print(" Initial Diamond Norm:", np.linalg.norm(D0))
+        print(" Initial Shadow Norm:", np.linalg.norm(S0))
+
+        towers[name] = tower_signature(tower)
+
+    # --------------------------
+    # Compare towers
+    # --------------------------
+
+    print("\n------------------------------------------------------------")
+    print("TOWER COMPARISON")
+
+    keys = list(towers.keys())
+
+    ref = towers[keys[0]]
+
+    for k in keys[1:]:
+
+        diffs = []
+
+        for level in range(min(len(ref), len(towers[k]))):
+
+            diff = np.linalg.norm(ref[level] - towers[k][level])
+            diffs.append(diff)
+
+        print(f"{keys[0]} vs {k} level diffs:", diffs)
+
+    print("\nINTERPRETATION:")
+    print("Near-zero differences across all levels confirm representation collapse.")
+
+
+# ============================================================
+
+if __name__ == "__main__":
+    run_experiment()

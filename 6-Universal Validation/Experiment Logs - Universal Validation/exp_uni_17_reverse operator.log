@@ -1,0 +1,51 @@
+RELATIONAL LYSIS — REVERSE OPERATOR UNIVERSALITY (N = 500)
+------------------------------------------------------------
+
+[*] Testing State Type: random_dense
+ Converged Depth: 1
+ Final Shadow Norm: 0.0
+ Diamond Symmetry Error: 0.0
+ Contraction Ratio: insufficient depth
+ Operator Symmetry Error: 0.0
+ Min Eigenvalue: 245.43531274299397
+ Coercive: True
+
+[*] Testing State Type: random_sparse
+ Converged Depth: 1
+ Final Shadow Norm: 0.0
+ Diamond Symmetry Error: 0.0
+ Contraction Ratio: insufficient depth
+ Operator Symmetry Error: 0.0
+ Min Eigenvalue: 0.6933169509869348
+ Coercive: True
+
+[*] Testing State Type: skew_dominated
+ Converged Depth: 1
+ Final Shadow Norm: 0.0
+ Diamond Symmetry Error: 0.0
+ Contraction Ratio: insufficient depth
+ Operator Symmetry Error: 0.0
+ Min Eigenvalue: 0.0
+ Coercive: True
+
+[*] Testing State Type: ill_conditioned
+ Converged Depth: 1
+ Final Shadow Norm: 0.0
+ Diamond Symmetry Error: 0.0
+ Contraction Ratio: insufficient depth
+ Operator Symmetry Error: 0.0
+ Min Eigenvalue: 18705067.434620023
+ Coercive: True
+
+[*] Testing State Type: structured_chain
+ Converged Depth: 1
+ Final Shadow Norm: 0.0
+ Diamond Symmetry Error: 0.0
+ Contraction Ratio: insufficient depth
+ Operator Symmetry Error: 0.0
+ Min Eigenvalue: 9.924852439391979e-17
+ Coercive: True
+
+INTERPRETATION:
+If all admissible states terminate with coercive operators
+and contraction ratio < 1 → universality supported.

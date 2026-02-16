@@ -1,0 +1,25 @@
+RELATIONAL LYSIS — REPRESENTATION COLLAPSE (RL-COMPLIANT)
+------------------------------------------------------------
+
+[*] Representation: Direct
+ Tower Depth: 2
+ Initial Diamond Norm: 84.85575996949176
+ Initial Shadow Norm: 1719.0544186053712
+
+[*] Representation: Permuted
+ Tower Depth: 2
+ Initial Diamond Norm: 84.85575996949176
+ Initial Shadow Norm: 1719.0544186053712
+
+[*] Representation: Similarity
+ Tower Depth: 2
+ Initial Diamond Norm: 84.85575996949174
+ Initial Shadow Norm: 1719.0544186053714
+
+------------------------------------------------------------
+TOWER COMPARISON
+Direct vs Permuted level diffs: [7.14948020260416e-16, 4.438503010946121e-16]
+Direct vs Similarity level diffs: [3.095961432224447e-16, 5.392582568990565e-16]
+
+INTERPRETATION:
+Near-zero differences across all levels confirm representation collapse.

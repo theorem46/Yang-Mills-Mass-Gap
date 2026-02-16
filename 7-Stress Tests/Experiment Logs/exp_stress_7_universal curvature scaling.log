@@ -1,0 +1,14 @@
+RELATIONAL LYSIS: BLACK HOLE STEP 2
+Validation of the Cubic Scaling Law (r_min ~ M^1/3)
+------------------------------------------------------------
+Mass (M)     | r_min        | Max Curvature (K_max)     | Verdict
+-----------------------------------------------------------------
+1.0e+00      | 0.0500       | 3.0720e+09                | STABLE
+1.0e+01      | 0.1077       | 3.0720e+09                | STABLE
+1.0e+03      | 0.5000       | 3.0720e+09                | STABLE
+1.0e+06      | 5.0000       | 3.0720e+09                | STABLE
+1.0e+09      | 50.0000      | 3.0720e+09                | STABLE
+-----------------------------------------------------------------
+INTERPRETATION:
+Maximum curvature is CONSTANT across all mass scales.
+This confirms that r_min ~ M^(1/3) is the correct regulator.

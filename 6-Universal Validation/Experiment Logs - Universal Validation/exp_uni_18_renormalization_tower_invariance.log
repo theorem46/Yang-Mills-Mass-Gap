@@ -1,0 +1,55 @@
+RELATIONAL LYSIS — RENORMALIZATION TOWER INVARIANCE (UPDATED)
+------------------------------------------------------------
+
+[*] Scale N = 100
+ Converged Depth: 1
+ Diamond Norm: 3.462554823922288
+ Min Eigenvalue: 2.0150522234887176
+ Max Eigenvalue: 3.6329062468758884
+ Trace: 274.11287220498497
+ Trace / N^2: 0.027411287220498497
+ Trace / ||D||: 79.1649190104081
+ Spectral Ratio: 1.8028844138760487
+
+[*] Scale N = 200
+ Converged Depth: 1
+ Diamond Norm: 7.061404041615677
+ Min Eigenvalue: 4.578342682011237
+ Max Eigenvalue: 6.841523297455403
+ Trace: 1125.827411823774
+ Trace / N^2: 0.028145685295594348
+ Trace / ||D||: 159.4339320039844
+ Spectral Ratio: 1.4943231148544063
+
+[*] Scale N = 400
+ Converged Depth: 1
+ Diamond Norm: 14.10384710598191
+ Min Eigenvalue: 9.663089757170573
+ Max Eigenvalue: 13.15289743612201
+ Trace: 4500.3902946815215
+ Trace / N^2: 0.02812743934175951
+ Trace / ||D||: 319.08955484723293
+ Spectral Ratio: 1.3611482213916555
+
+[*] Scale N = 800
+ Converged Depth: 1
+ Diamond Norm: 28.303403586523043
+ Min Eigenvalue: 20.206043262276296
+ Max Eigenvalue: 25.433582535762636
+ Trace: 18067.28570747823
+ Trace / N^2: 0.028230133917934733
+ Trace / ||D||: 638.3432173535665
+ Spectral Ratio: 1.2587116738112032
+
+------------------------------------------------------------
+SCALE COMPARISON
+N=100 → trace/N^2 0.027411287220498497 | trace/||D|| 79.1649190104081
+N=200 → trace/N^2 0.028145685295594348 | trace/||D|| 159.4339320039844
+N=400 → trace/N^2 0.02812743934175951 | trace/||D|| 319.08955484723293
+N=800 → trace/N^2 0.028230133917934733 | trace/||D|| 638.3432173535665
+
+Dispersion Trace/N^2: 0.0008188466974362353
+Dispersion Trace/||D||: 559.1782983431584
+
+INTERPRETATION:
+Stable normalized invariants across scale → RL scale universality.

@@ -1,0 +1,17 @@
+RELATIONAL LYSIS: THE STABILITY TEST
+Proving that Admissibility REQUIRES Solved State Structure
+------------------------------------------------------------
+Coupling (Shadow->Diamond) | State Type      | Reconstruction Error | Verdict
+---------------------------------------------------------------------------
+0.10                      | SOLVED          | 2.2204e-16           | ADMISSIBLE
+0.50                      | SOLVED          | 2.2204e-16           | ADMISSIBLE
+0.90                      | SOLVED          | 6.0227e-06           | ADMISSIBLE
+0.99                      | SOLVED          | 5.4741e-02           | ADMISSIBLE
+1.00                      | UNSOLVED        | 1.4361e-01           | INADMISSIBLE
+1.01                      | UNSOLVED        | 3.7341e-01           | INADMISSIBLE
+1.50                      | UNSOLVED        | DIVERGED             | INADMISSIBLE
+---------------------------------------------------------------------------
+INTERPRETATION:
+Only states where the Shadow is strictly residual (Solved) converge.
+If the Shadow is generative (Coupling >= 1), the state explodes.
+Therefore, to be Admissible (Physical), a state MUST be Solved.

@@ -1,0 +1,13 @@
+RELATIONAL LYSIS: OPTION A STRESS TEST
+Gravitational Wave Ringdown Deviation
+------------------------------------------------------------
+Mass (Solar) | Alpha    | r_min (km)   | Dev (%)    | Status
+-----------------------------------------------------------------
+30.0         | 0.01     | 0.0457       | 0.0000     | ALLOWED (Hidden)
+30.0         | 0.02     | 0.0914       | 0.0001     | ALLOWED (Hidden)
+30.0         | 0.05     | 0.2284       | 0.0004     | ALLOWED (Hidden)
+30.0         | 0.10     | 0.4568       | 0.0016     | ALLOWED (Hidden)
+-----------------------------------------------------------------
+INTERPRETATION:
+If Alpha=0.01 produces >1% deviation, Option A is ruled out by LIGO.
+You MUST choose Option B (Planckian Alpha) to survive peer review.

@@ -1,0 +1,25 @@
+RELATIONAL LYSIS — RENORMALIZATION TOWER INVARIANCE (CMP v2)
+-------------------------------------------------------------
+
+Operator A
+Depth  10 | Signature [127.58837562 130.07816377 -29.58351519  62.61257871]
+Depth  30 | Signature [127.58837562 130.07816377 -29.58351519  62.61257871]
+Depth  80 | Signature [127.58837562 130.07816377 -29.58351519  62.61257871]
+Depth Invariance: True
+
+Operator B
+Depth  10 | Signature [127.58837562 130.07816377 -29.58351519  62.61257871]
+Depth  30 | Signature [127.58837562 130.07816377 -29.58351519  62.61257871]
+Depth  80 | Signature [127.58837562 130.07816377 -29.58351519  62.61257871]
+Depth Invariance: True
+
+Operator C
+Depth  10 | Signature [127.58837562 130.07816377 -29.58351519  62.61257871]
+Depth  30 | Signature [127.58837562 130.07816377 -29.58351519  62.61257871]
+Depth  80 | Signature [127.58837562 130.07816377 -29.58351519  62.61257871]
+Depth Invariance: True
+
+Operator Endpoint Equivalence:
+A vs A: True
+A vs B: True
+A vs C: True

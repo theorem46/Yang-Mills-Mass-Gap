@@ -1,0 +1,10 @@
+RELATIONAL LYSIS — FIXED POINT STABILITY SPECTRUM
+------------------------------------------------
+
+Reference Signature: [128.32258043 128.86332145 -32.41970784  72.39298657]
+
+Perturbation Recovery:
+Epsilon 1.0e-03 | Recovered: True
+Epsilon 1.0e-02 | Recovered: True
+Epsilon 1.0e-01 | Recovered: True
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ %

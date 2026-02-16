@@ -1,0 +1,19 @@
+RELATIONAL LYSIS: OPTION A ROBUSTNESS CHECK
+Cross-Model Verification (Hayward vs Bardeen)
+--------------------------------------------------------------------------------
+Alpha  | Model      | r_ph Dev (%)    | Shadow Dev (%)  | Verdict
+--------------------------------------------------------------------------------
+0.01   | Hayward    | 0.0000          | 0.0000          | ROBUST
+0.01   | Bardeen    | 0.0000          | 0.0000          | ROBUST
+--------------------------------------------------------------------------------
+0.05   | Hayward    | 0.0004          | 0.0002          | ROBUST
+0.05   | Bardeen    | 0.0007          | 0.0004          | ROBUST
+--------------------------------------------------------------------------------
+0.10   | Hayward    | 0.0016          | 0.0008          | ROBUST
+0.10   | Bardeen    | 0.0030          | 0.0018          | ROBUST
+--------------------------------------------------------------------------------
+
+INTERPRETATION:
+If deviations remain small across BOTH models and BOTH observables,
+the 'Observational Stealth' of the Relational Core is a structural
+property of the scaling law, not a trick of the metric.
