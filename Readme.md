@@ -7,7 +7,13 @@
 Dallas, Texas, United States
 
 **Primary Manuscript:**
-Relational Lysis and the Necessity of Geometric Solved States: A Structural Resolution of the Yang–Mills Mass Gap 
+Relational Lysis and the Necessity of Geometric Solved States: A Structural Resolution of the Yang–Mills Mass Gap
+
+File Name: Relational_Lysis_Yang_Mills_Mass_Gap_David Swanagon.pdf
+
+**Reading Guide:**
+The below PDF provides a short review of the key theory terms to assist with reading the full paper. This overview should be used to assist with reviewing the full paper.  
+Reading Guide: Relational_Lysis_Reading_Guide.pdf
 
 **Validation Reports**
 
