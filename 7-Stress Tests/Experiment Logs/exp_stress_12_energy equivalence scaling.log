@@ -1,0 +1,30 @@
+conda activate mgmt_chain
+(base) dswanagon@Davids-Laptop-7 ~ % conda activate mgmt_chain
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % /opt/anaconda3/envs/mgmt_chain/bin/python "/Users/dswanagon/Relational Lysis Github/7-Stress Tests/exp_stress_12_energy equivalence s
+caling.py"
+
+RELATIONAL LYSIS — ENERGY EQUIVALENCE TEST (Corrected)
+
+n=64
+Mean Ratio : 0.286251
+Std        : 0.061239
+
+n=128
+Mean Ratio : 0.262853
+Std        : 0.033340
+
+n=256
+Mean Ratio : 0.254287
+Std        : 0.023959
+
+n=512
+Mean Ratio : 0.250238
+Std        : 0.013291
+
+n=1024
+Mean Ratio : 0.250158
+Std        : 0.010614
+
+Means: [0.28625106 0.26285255 0.25428665 0.25023753 0.25015777]
+Slope: -2.624570989063641e-05
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % 

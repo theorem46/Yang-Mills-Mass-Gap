@@ -1,0 +1,27 @@
+conda activate mgmt_chain
+(base) dswanagon@Davids-Laptop-7 ~ % conda activate mgmt_chain
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % /opt/anaconda3/envs/mgmt_chain/bin/python "/Users/dswanagon/Relational Lysis Github/7-Stress Tests/exp_stress_15_Spectral Gap Persist
+ence Across Scale.py"
+
+RELATIONAL LYSIS — SPECTRAL GAP TEST
+
+n=32, spectral gap=8.702964814531418
+n=64, spectral gap=9.269783404990658
+n=128, spectral gap=9.565469735493592
+n=256, spectral gap=9.71646860120223
+n=512, spectral gap=9.792767828113137
+
+Gaps: [8.702964814531418, 9.269783404990658, 9.565469735493592, 9.71646860120223, 9.792767828113137]
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % 
+
+
+
+
+
+
+
+
+
+
+
+

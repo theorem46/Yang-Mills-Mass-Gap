@@ -1,0 +1,127 @@
+conda activate mgmt_chain
+(base) dswanagon@Davids-Laptop-7 ~ % conda activate mgmt_chain
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % /opt/anaconda3/envs/mgmt_chain/bin/python "/Users/dswanagon/Relational Lysis Github/7-Stress Tests/exp_stress_14_Residual Square Stru
+ctural Validation.py"
+
+====================================================
+RELATIONAL LYSIS — RESIDUAL SQUARE TEST
+Tier-1 Validation
+====================================================
+
+Magnitude 1.000000e-05
+Mean Energy : 1.026171e-08
+Std Dev     : 1.418382e-09
+Min / Max   : 7.625194e-09 / 1.348931e-08
+
+Magnitude 2.069138e-05
+Mean Energy : 4.305001e-08
+Std Dev     : 6.122945e-09
+Min / Max   : 3.078929e-08 / 5.644851e-08
+
+Magnitude 4.281332e-05
+Mean Energy : 1.847511e-07
+Std Dev     : 2.466351e-08
+Min / Max   : 1.443076e-07 / 2.332439e-07
+
+Magnitude 8.858668e-05
+Mean Energy : 7.731065e-07
+Std Dev     : 1.138366e-07
+Min / Max   : 5.350726e-07 / 1.096621e-06
+
+Magnitude 1.832981e-04
+Mean Energy : 3.237768e-06
+Std Dev     : 4.271138e-07
+Min / Max   : 2.347237e-06 / 4.188451e-06
+
+Magnitude 3.792690e-04
+Mean Energy : 1.416096e-05
+Std Dev     : 1.721448e-06
+Min / Max   : 1.141896e-05 / 1.841993e-05
+
+Magnitude 7.847600e-04
+Mean Energy : 6.411500e-05
+Std Dev     : 8.511194e-06
+Min / Max   : 4.299367e-05 / 8.624489e-05
+
+Magnitude 1.623777e-03
+Mean Energy : 2.647127e-04
+Std Dev     : 3.290384e-05
+Min / Max   : 1.827449e-04 / 3.400384e-04
+
+Magnitude 3.359818e-03
+Mean Energy : 1.170845e-03
+Std Dev     : 1.463436e-04
+Min / Max   : 8.594955e-04 / 1.528514e-03
+
+Magnitude 6.951928e-03
+Mean Energy : 4.774400e-03
+Std Dev     : 6.397218e-04
+Min / Max   : 3.480840e-03 / 6.689516e-03
+
+Magnitude 1.438450e-02
+Mean Energy : 2.080286e-02
+Std Dev     : 3.257860e-03
+Min / Max   : 1.410030e-02 / 2.895612e-02
+
+Magnitude 2.976351e-02
+Mean Energy : 9.002203e-02
+Std Dev     : 1.092255e-02
+Min / Max   : 7.062337e-02 / 1.297384e-01
+
+Magnitude 6.158482e-02
+Mean Energy : 3.789692e-01
+Std Dev     : 6.014846e-02
+Min / Max   : 2.317704e-01 / 5.047121e-01
+
+Magnitude 1.274275e-01
+Mean Energy : 1.617705e+00
+Std Dev     : 2.235442e-01
+Min / Max   : 1.195938e+00 / 2.139983e+00
+
+Magnitude 2.636651e-01
+Mean Energy : 7.047398e+00
+Std Dev     : 7.986794e-01
+Min / Max   : 5.017422e+00 / 9.045197e+00
+
+Magnitude 5.455595e-01
+Mean Energy : 2.987538e+01
+Std Dev     : 4.480990e+00
+Min / Max   : 1.967113e+01 / 4.282325e+01
+
+Magnitude 1.128838e+00
+Mean Energy : 1.240141e+02
+Std Dev     : 1.862348e+01
+Min / Max   : 9.340218e+01 / 1.696732e+02
+
+Magnitude 2.335721e+00
+Mean Energy : 5.457935e+02
+Std Dev     : 6.081470e+01
+Min / Max   : 4.019267e+02 / 6.493837e+02
+
+Magnitude 4.832930e+00
+Mean Energy : 2.276774e+03
+Std Dev     : 2.826583e+02
+Min / Max   : 1.691261e+03 / 2.826162e+03
+
+Magnitude 1.000000e+01
+Mean Energy : 1.003954e+04
+Std Dev     : 1.149732e+03
+Min / Max   : 7.760790e+03 / 1.218326e+04
+
+====================================================
+QUADRATIC SCALING ANALYSIS
+====================================================
+Log–Log Slope (expected ≈ 2): 1.999092
+PASS: Quadratic scaling confirmed
+
+====================================================
+PROPORTIONALITY CONSTANT
+====================================================
+C ≈ 100.149903 ± 1.953114
+
+====================================================
+EXECUTION COMPLETE
+Total Time: 0.01 sec
+====================================================
+
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % 

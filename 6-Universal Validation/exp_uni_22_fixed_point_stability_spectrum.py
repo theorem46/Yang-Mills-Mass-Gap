@@ -1,3 +1,7 @@
+#Paper: Relational Lysis and the Necessity of the Covariant Laplacian: A Structural Resolution of the Yang–Mills Mass #LinkedIn: https://www.linkedin.com/in/davidswanagon/
+#Device: Apple M1 - 16GB - Series #WGR9MMW64F
+#Date Run: March 03, 2026
+
 #!/usr/bin/env python3
 
 """

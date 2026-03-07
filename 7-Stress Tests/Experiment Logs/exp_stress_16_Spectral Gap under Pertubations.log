@@ -1,0 +1,71 @@
+conda activate mgmt_chain
+(base) dswanagon@Davids-Laptop-7 ~ % conda activate mgmt_chain
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % /opt/anaconda3/envs/mgmt_chain/bin/python "/Users/dswanagon/Relational Lysis Github/7-Stress Tests/exp_stress_16_Spectral Gap under P
+ertubations.py"
+
+====================================================
+RELATIONAL LYSIS — SPECTRAL GAP PERTURBATION TEST
+Tier-1 Validation
+====================================================
+
+
+--- Resolution n = 64 ---
+Base Gap: 9.269783
+
+Perturbation Strength 0.01
+Mean Gap : 9.268869
+Std Dev  : 0.010984
+Min/Max  : 9.250225 / 9.287953
+
+Perturbation Strength 0.05
+Mean Gap : 9.285541
+Std Dev  : 0.062549
+Min/Max  : 9.200285 / 9.396776
+
+Perturbation Strength 0.1
+Mean Gap : 9.302442
+Std Dev  : 0.114689
+Min/Max  : 9.130860 / 9.545247
+
+--- Resolution n = 128 ---
+Base Gap: 9.565470
+
+Perturbation Strength 0.01
+Mean Gap : 9.566844
+Std Dev  : 0.006796
+Min/Max  : 9.556579 / 9.575864
+
+Perturbation Strength 0.05
+Mean Gap : 9.590683
+Std Dev  : 0.037406
+Min/Max  : 9.541140 / 9.645474
+
+Perturbation Strength 0.1
+Mean Gap : 9.595517
+Std Dev  : 0.082423
+Min/Max  : 9.435003 / 9.731072
+
+--- Resolution n = 256 ---
+Base Gap: 9.716469
+
+Perturbation Strength 0.01
+Mean Gap : 9.712978
+Std Dev  : 0.004988
+Min/Max  : 9.704427 / 9.720703
+
+Perturbation Strength 0.05
+Mean Gap : 9.706499
+Std Dev  : 0.058217
+Min/Max  : 9.609245 / 9.802076
+
+Perturbation Strength 0.1
+Mean Gap : 9.733752
+Std Dev  : 0.114397
+Min/Max  : 9.455297 / 9.854466
+
+====================================================
+EXECUTION COMPLETE
+Total Time: 0.29 sec
+====================================================
+
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % 

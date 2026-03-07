@@ -1,0 +1,42 @@
+conda activate mgmt_chain
+(base) dswanagon@Davids-Laptop-7 ~ % conda activate mgmt_chain
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % /opt/anaconda3/envs/mgmt_chain/bin/python "/Users/dswanagon/Relational Lysis Github/7-Stress Tests/exp_stress_11_lipschitz stability.
+py"
+
+====================================================
+RELATIONAL LYSIS — REPRESENTATION LIPSCHITZ TEST
+Tier-1 Non-Degenerate Version
+====================================================
+
+
+Resolution n = 128
+Mean Lipschitz Constant : 0.189540
+Std Dev                 : 0.025345
+Min / Max               : 0.130405 / 0.269343
+
+Resolution n = 256
+Mean Lipschitz Constant : 0.184468
+Std Dev                 : 0.017390
+Min / Max               : 0.143452 / 0.237334
+
+Resolution n = 512
+Mean Lipschitz Constant : 0.181294
+Std Dev                 : 0.012529
+Min / Max               : 0.144842 / 0.224118
+
+Resolution n = 1024
+Mean Lipschitz Constant : 0.177920
+Std Dev                 : 0.007987
+Min / Max               : 0.155528 / 0.208015
+
+====================================================
+RESOLUTION INDEPENDENCE ANALYSIS
+====================================================
+Means: [0.18953958 0.18446844 0.18129416 0.17792037]
+Slope: -1.156752834608606e-05
+PASS: Resolution-independent Lipschitz constant
+
+Total Time: 0.08787679672241211 sec
+====================================================
+
+(mgmt_chain) dswanagon@Davids-Laptop-7 ~ % 
