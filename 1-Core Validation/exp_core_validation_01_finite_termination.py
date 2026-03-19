@@ -1,10 +1,3 @@
-#Paper: Relational Lysis Theory: A Universal Self-Adjoint Operator Unifying Geometry, Quantum Gauge Fields, Gravitation, Thermodynamics, Arithmetic, and Computation
-#Researcher: Dr. David Swanagon
-#LinkedIn: https://www.linkedin.com/in/davidswanagon/
-#Device: Apple M1 - 16GB - Series #WGR9MMW64F
-#Date Run: February 09, 2026
-
-#!/usr/bin/env python3
 """
 RELATIONAL LYSIS: EXPERIMENTAL VALIDATION SUITE
 -------------------------------------------------------------------------------
@@ -12,7 +5,6 @@ Script Name:     exp_core_validation_01_finite_termination.py
 Category:        1-Core Validation
 Researcher:      Dr. David Swanagon
 Original Date:   February 9, 2026
-Paper Reference: Section 3.5, Theorem 3.7 (Finite Termination)
 Theorem Support: "Finite Termination of Hierarchical Lysis"
 
 -------------------------------------------------------------------------------
@@ -148,7 +140,7 @@ def run_experiment():
     print("-" * 65)
     
     if all_passed:
-        print("\n[SUCCESS] Theorem 3.7 Validated.")
+        print("\n[SUCCESS].")
         print("          All adversarial states converged to harmonic fixed points.")
         print("          No infinite descent detected.")
     else:
